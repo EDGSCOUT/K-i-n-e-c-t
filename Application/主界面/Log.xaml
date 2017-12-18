@@ -1,0 +1,247 @@
+﻿<UserControl x:Class="Log.Log"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             >
+    <Grid>
+        <Label Content="实验记录表" FontSize="24" FontWeight="Bold" Margin="327,10,335,0" Height="40" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+        <Button x:Name="Submit" Content="提交" Margin="356,0,356,4" VerticalAlignment="Bottom" Height="35" Click="button_Click" HorizontalAlignment="Center" Width="80" FontSize="20"/>
+        <ScrollViewer Margin="0,55,10,44">
+            <Canvas Width="760" Height="1694" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Label Content="主试姓名：" Canvas.Left="82" Canvas.Top="1473" FontSize="18"/>
+                <Label Content="实验地点：" Canvas.Left="357" Canvas.Top="1473" FontSize="18"/>
+                <Label Content="环境噪声：" Canvas.Left="74" Canvas.Top="437" FontSize="18"/>
+                <Label Content="行为组编号：" Canvas.Left="51" Canvas.Top="18" FontSize="18"/>
+                <TextBox x:Name="tb1" Height="30" Canvas.Left="174" TextWrapping="Wrap" Canvas.Top="18" Width="143" FontSize="18"/>
+                <TextBox x:Name="tb2" Height="30" Canvas.Left="444" TextWrapping="Wrap" Canvas.Top="18" Width="143" FontSize="18"/>
+                <TextBox x:Name="tb3" Height="30" Canvas.Left="174" TextWrapping="Wrap" Canvas.Top="71" Width="143" FontSize="18"/>
+                <TextBox x:Name="tb4" Height="30" Canvas.Left="444" TextWrapping="Wrap" Canvas.Top="71" Width="143" FontSize="18"/>
+                <TextBox x:Name="tb5" Height="30" Canvas.Left="444" TextWrapping="Wrap" Canvas.Top="125" Width="143" FontSize="18"/>
+                <TextBox x:Name="tb6" Height="30" Canvas.Left="174" TextWrapping="Wrap" Canvas.Top="175" Width="143" FontSize="18"/>
+                <TextBox x:Name="tb7" Height="30" Canvas.Left="444" TextWrapping="Wrap" Canvas.Top="175" Width="143" FontSize="18"/>
+                <TextBox x:Name="tb8" Height="30" Canvas.Left="174" TextWrapping="Wrap" Canvas.Top="282" Width="87" FontSize="18"/>
+                <TextBox x:Name="tb9" Height="30" Canvas.Left="393" TextWrapping="Wrap" Canvas.Top="282" Width="87" FontSize="18"/>
+                <TextBox x:Name="tb10" Height="30" Canvas.Left="613" TextWrapping="Wrap" Canvas.Top="282" Width="87" FontSize="18"/>
+                <TextBox x:Name="tb11" Height="30" Canvas.Left="174" TextWrapping="Wrap" Canvas.Top="337" Width="87" FontSize="18"/>
+                <TextBox x:Name="tb12" Height="30" Canvas.Left="306" TextWrapping="Wrap" Canvas.Top="337" Width="48" FontSize="18"/>
+                <TextBox x:Name="tb13" Height="30" Canvas.Left="394" TextWrapping="Wrap" Canvas.Top="337" Width="48" FontSize="18"/>
+                <TextBox x:Name="tb14" Height="30" Canvas.Left="174" TextWrapping="Wrap" Canvas.Top="391" Width="87" FontSize="18"/>
+                <TextBox x:Name="tb15" Height="30" Canvas.Left="395" TextWrapping="Wrap" Canvas.Top="393" Width="87" FontSize="18"/>
+                <TextBox x:Name="tb16" Height="30" Canvas.Left="174" TextWrapping="Wrap" Canvas.Top="442" Width="87" FontSize="18"/>
+                <TextBox x:Name="tb17" Height="30" Canvas.Left="396" TextWrapping="Wrap" Canvas.Top="441" Width="87" FontSize="18"/>
+                <TextBox x:Name="tb18" Height="68" Canvas.Left="174" TextWrapping="Wrap" Canvas.Top="782" Width="524" FontSize="18"/>
+                <TextBox x:Name="tb19" Height="68" Canvas.Left="174" TextWrapping="Wrap" Canvas.Top="682" Width="524" FontSize="18"/>
+                <TextBox x:Name="tb20" Height="30" Canvas.Left="174" TextWrapping="Wrap" Canvas.Top="228" Width="143" FontSize="18"/>
+                <TextBox x:Name="tb21" Height="68" Canvas.Left="182" TextWrapping="Wrap" Canvas.Top="1378" Width="516" FontSize="18"/>
+                <TextBox x:Name="tb22" Height="30" Canvas.Left="182" TextWrapping="Wrap" Canvas.Top="1476" Width="143" FontSize="18"/>
+                <TextBox x:Name="tb23" Height="30" Canvas.Left="462" TextWrapping="Wrap" Canvas.Top="1476" Width="236" FontSize="18"/>
+                <TextBox x:Name="tb24" Height="126" Canvas.Left="182" TextWrapping="Wrap" Canvas.Top="1534" Width="516" FontSize="18"/>
+                <TextBox x:Name="tb25" Height="34" Canvas.Left="174" TextWrapping="Wrap" Canvas.Top="557" Width="524" FontSize="18"/>
+                <TextBox x:Name="tb26" Height="34" Canvas.Left="174" TextWrapping="Wrap" Canvas.Top="618" Width="524" FontSize="18"/>
+                <Label Content="被试特殊情况：" Canvas.Left="74" Canvas.Top="880" FontSize="18" Foreground="#FFFA0000"/>
+                <RadioButton x:Name="rb11" Content="A.感冒，嗓子发炎，鼻炎，咽炎其中之一情况" Canvas.Left="143" Canvas.Top="934" RenderTransformOrigin="0.5,0.5" GroupName="1">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb12" Content="B.受过声乐，播音等专业训练一年以上" Canvas.Left="135" Canvas.Top="973" RenderTransformOrigin="0.5,0.5" GroupName="1">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb13" Content="C.处在生理期的女性" Canvas.Left="112" Canvas.Top="1011" RenderTransformOrigin="0.5,0.5" GroupName="1">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb14" Content="D.没有A、B、C中任意一种情况" Canvas.Left="128" Canvas.Top="1048" RenderTransformOrigin="0.5,0.5" GroupName="1">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="被试突发状况：" Canvas.Left="76" Canvas.Top="1096" FontSize="18"/>
+                <Label Content="主试突发状况：" Canvas.Left="82" Canvas.Top="1339" FontSize="18"/>
+                <RadioButton x:Name="rb21" Content="A.被试提出喝水、如厕或是身体不适等问题" Canvas.Left="143" Canvas.Top="1150" RenderTransformOrigin="0.5,0.5" GroupName="2">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb22" Content="B.被试提出与实验无关的问题" Canvas.Left="125" Canvas.Top="1186" RenderTransformOrigin="0.5,0.5" GroupName="2">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb23" Content="C.被试不配合实验" Canvas.Left="111" Canvas.Top="1223" RenderTransformOrigin="0.5,0.5" GroupName="2">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb24" Content="D.环境噪声过大（噪声计读数超过55dB）" Canvas.Left="143" Canvas.Top="1259" RenderTransformOrigin="0.5,0.5" GroupName="2">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb25" Content="E.无上述问题" Canvas.Left="105" Canvas.Top="1294" RenderTransformOrigin="0.5,0.5" GroupName="2">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="dB" Canvas.Left="263" Canvas.Top="441" FontSize="18"/>
+                <Canvas Height="1416" Width="760" Canvas.Left="2"/>
+                <Label Content="总编号：" Canvas.Left="357" Canvas.Top="14" FontSize="18" RenderTransformOrigin="0.513,0.095"/>
+                <Label Content="姓名：" Canvas.Left="105" Canvas.Top="71" FontSize="18" Foreground="#FFFA0000"/>
+                <Label Content="被试类型：" Canvas.Left="339" Canvas.Top="71" FontSize="18"/>
+                <Label Content="年龄：" Canvas.Left="375" Canvas.Top="122" FontSize="18" Foreground="#FFFA0000"/>
+                <Label Content="性别：" Canvas.Left="105" Canvas.Top="122" FontSize="18" Foreground="#FFFA0000"/>
+                <RadioButton x:Name="rb41" Content="男" Canvas.Left="204" Canvas.Top="132" RenderTransformOrigin="0.5,0.5" GroupName="4">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb42" Content="女" Canvas.Left="272" Canvas.Top="132" RenderTransformOrigin="0.5,0.5" GroupName="4">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="学历：" Canvas.Left="105" Canvas.Top="172" FontSize="18" Foreground="#FFFA0000"/>
+                <Label Content="职业：" Canvas.Left="375" Canvas.Top="172" FontSize="18" Foreground="#FFFA0000"/>
+                <Label Content="BDI 分数" Canvas.Left="82" Canvas.Top="279" FontSize="18"/>
+                <Label Content="VHI-10 分数" Canvas.Left="276" Canvas.Top="279" FontSize="18"/>
+                <Label Content="实验日期：" Canvas.Left="74" Canvas.Top="334" FontSize="18"/>
+                <Label Content="年" Canvas.Left="269" Canvas.Top="334" FontSize="18"/>
+                <Label Content="月" Canvas.Left="360" Canvas.Top="334" FontSize="18"/>
+                <Label Content="日" Canvas.Left="445" Canvas.Top="334" FontSize="18"/>
+                <Label Content="开始时间：" Canvas.Left="74" Canvas.Top="388" FontSize="18"/>
+                <Label Content="持续时间：" Canvas.Left="299" Canvas.Top="390" FontSize="18"/>
+                <Label Content="刺激顺序：" Canvas.Left="302" Canvas.Top="440" FontSize="18"/>
+                <Label Content="数据完整性：" Canvas.Left="56" Canvas.Top="776" FontSize="18"/>
+                <Label Content="近两周服药情况：" Canvas.Left="20" Canvas.Top="680" FontSize="18" Foreground="#FFFA0000"/>
+                <Label Content="配合程度：" Canvas.Left="74" Canvas.Top="227" FontSize="18"/>
+                <Label Content="备注：" Canvas.Left="118" Canvas.Top="1527" FontSize="18"/>
+                <Label Content="PHQ-9分数" Canvas.Left="496" Canvas.Top="279" FontSize="18"/>
+                <Label Content="重录的语音段：" Canvas.Left="38" Canvas.Top="557" FontSize="18"/>
+                <Label Content="丢失的视频段：" Canvas.Left="38" Canvas.Top="618" FontSize="18"/>
+                <Label Content="右利手：" Canvas.Left="360" Canvas.Top="227" FontSize="18" Foreground="#FFFA0000"/>
+                <RadioButton x:Name="rb51" Content="是" Canvas.Left="462" Canvas.Top="238" RenderTransformOrigin="0.5,0.5" GroupName="5">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb52" Content="否" Canvas.Left="530" Canvas.Top="238" RenderTransformOrigin="0.5,0.5" GroupName="5">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="是否首次发作：" Canvas.Left="38" Canvas.Top="497" FontSize="18"/>
+                <Label Content="是否目前住院：" Canvas.Left="357" Canvas.Top="497" FontSize="18"/>
+                <RadioButton x:Name="rb61" Content="是" Canvas.Left="196" Canvas.Top="508" RenderTransformOrigin="0.5,0.5" GroupName="6">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb62" Content="否" Canvas.Left="264" Canvas.Top="508" RenderTransformOrigin="0.5,0.5" GroupName="6">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb71" Content="是" Canvas.Left="512" Canvas.Top="508" RenderTransformOrigin="0.5,0.5" GroupName="7">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb72" Content="否" Canvas.Left="580" Canvas.Top="508" RenderTransformOrigin="0.5,0.5" GroupName="7">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+            </Canvas>
+        </ScrollViewer>
+    </Grid>
+</UserControl>

@@ -1,0 +1,403 @@
+﻿<UserControl x:Class="REMIT.REMIT"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d"
+             >
+    <Grid>
+        <Canvas x:Name="empty" Height="569" Width="792"/>
+
+        <Button x:Name="Submit" Content="提交" Margin="0,0,0,10" VerticalAlignment="Bottom" Height="27" Click="button_Click" HorizontalAlignment="Center" Width="68"/>
+        <Canvas Margin="10,10,10,42" Width="772" Height="517" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Grid Height="517" Width="772">
+                <Label Content="REMIT" FontSize="22" FontWeight="Bold" Margin="345,-6,344,479"/>
+                <Label Content="在下列每个问题中，请选择最符合你目前情况的答案" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="124,30,0,0" FontSize="22"/>
+                <Canvas HorizontalAlignment="Left" Height="443" Margin="0,74,0,0" VerticalAlignment="Top" Width="772">
+                    <Grid Height="443" Width="772">
+
+                        <Grid.Resources>
+                            <Style
+        					TargetType="{x:Type TextBlock}">
+                                <Setter
+        						Property="FontSize" Value="30"/>
+                                <Setter
+        						Property="VerticalAlignment" Value="Center"/>
+                            </Style>
+                            <Style
+        					TargetType="{x:Type Border}">
+                                <Setter
+        						Property="BorderBrush" Value="LightGray"/>
+                                <Setter
+        						Property="BorderThickness" Value="1"/>
+                            </Style>
+                        </Grid.Resources>
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="161*"/>
+                            <ColumnDefinition Width="45*"/>
+                            <ColumnDefinition Width="45*"/>
+                            <ColumnDefinition Width="45*"/>
+                            <ColumnDefinition Width="45*"/>
+                            <ColumnDefinition Width="45*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="74*"/>
+                            <RowDefinition Height="74*"/>
+                            <RowDefinition Height="74*"/>
+                            <RowDefinition Height="74*"/>
+                            <RowDefinition Height="74*"/>
+                            <RowDefinition Height="73*"/>
+                        </Grid.RowDefinitions>
+
+                        <Border Grid.Row="0" Grid.Column="0">
+                            <Label Content="在过去的两周" Margin="67,22,103,15" FontSize="22"/>
+                        </Border>
+                        <Border Grid.Row="0" Grid.Column="1">
+                            <Label Content="从未&#xD;&#xA;如此" Margin="16,6,11,3" FontSize="20"/>
+                        </Border>
+                        <Border Grid.Row="0" Grid.Column="2">
+                            <Label Content="偶尔&#xA;如此" Margin="16,6,11,3" FontSize="20"/>
+                        </Border>
+                        <Border Grid.Row="0" Grid.Column="3">
+                            <Label Content="有些时候&#xD;&#xA;如此&#xD;&#xA;" Margin="-1,7,-1,-9" FontSize="20"/>
+                        </Border>
+                        <Border Grid.Row="0" Grid.Column="4">
+                            <Label Content="大部分时&#xD;&#xA;候如此&#xA;" Margin="-1,7,-1,-9" FontSize="20"/>
+                        </Border>
+                        <Border Grid.Row="0" Grid.Column="5"></Border>
+                        <Border Grid.Row="0" Grid.Column="6">
+                            <Label Content="总是&#xA;如此" Margin="16,6,11,3" FontSize="20"/>
+                        </Border>
+
+                        <Border Grid.Row="1" Grid.Column="0">
+                            <Label Content="1.你觉得幸福吗？" Margin="48,16,95,21" FontSize="22"/>
+                        </Border>
+                        <Border Grid.Row="1" Grid.Column="1">
+                            <CheckBox x:Name="cb11" Content="" Margin="67,31,3,26" RenderTransformOrigin="0.459,0.486" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Center" Width="18" Checked="cb11_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="4" ScaleY="3"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="-30.18" Y="-0.81"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                        </Border>
+                        <Border Grid.Row="1" Grid.Column="2">
+                            <CheckBox x:Name="cb12" Content="" Margin="67,31,3,26" RenderTransformOrigin="0.459,0.486" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Center" Width="18" Checked="cb12_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="4" ScaleY="3"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="-30.18" Y="-0.81"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                        </Border>
+                        <Border Grid.Row="1" Grid.Column="3">
+                            <CheckBox x:Name="cb13" Content="" Margin="67,31,3,26" RenderTransformOrigin="0.459,0.486" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Center" Width="18" Checked="cb13_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="4" ScaleY="3"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="-30.18" Y="-0.81"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                        </Border>
+                        <Border Grid.Row="1" Grid.Column="4">
+                            <CheckBox x:Name="cb14" Content="" Margin="67,31,3,26" RenderTransformOrigin="0.459,0.486" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Center" Width="18" Checked="cb14_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="4" ScaleY="3"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="-30.18" Y="-0.81"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                        </Border>
+                        <Border Grid.Row="1" Grid.Column="5"></Border>
+                        <Border Grid.Row="1" Grid.Column="6">
+                            <CheckBox x:Name="cb15" Content="" Margin="67,31,3,26" RenderTransformOrigin="2,1.5" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Center" Width="18" Checked="cb15_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="4" ScaleY="3"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="53.034" Y="29.61"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                        </Border>
+
+                        <Border Grid.Row="2" Grid.Column="0">
+                            <Label Content="2.你觉得心满意足吗？" Margin="49,17,40,20" FontSize="22"/>
+                        </Border>
+                        <Border Grid.Row="2" Grid.Column="1">
+                            <CheckBox x:Name="cb21" Content="" Margin="67,31,3,26" RenderTransformOrigin="0.459,0.486" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Center" Width="18" Checked="cb21_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="4" ScaleY="3"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="-30.18" Y="-0.81"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                        </Border>
+                        <Border Grid.Row="2" Grid.Column="2">
+                            <CheckBox x:Name="cb22" Content="" Margin="67,31,3,26" RenderTransformOrigin="0.459,0.486" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Center" Width="18" Checked="cb22_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="4" ScaleY="3"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="-30.18" Y="-0.81"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                        </Border>
+                        <Border Grid.Row="2" Grid.Column="3">
+                            <CheckBox x:Name="cb23" Content="" Margin="67,31,3,26" RenderTransformOrigin="0.459,0.486" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Center" Width="18" Checked="cb23_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="4" ScaleY="3"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="-30.18" Y="-0.81"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                        </Border>
+                        <Border Grid.Row="2" Grid.Column="4">
+                            <CheckBox x:Name="cb24" Content="" Margin="67,31,3,26" RenderTransformOrigin="0.459,0.486" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Center" Width="18" Checked="cb24_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="4" ScaleY="3"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="-30.18" Y="-0.81"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                        </Border>
+                        <Border Grid.Row="2" Grid.Column="5"></Border>
+                        <Border Grid.Row="2" Grid.Column="6">
+                            <CheckBox x:Name="cb25" Content="" Margin="67,31,3,26" RenderTransformOrigin="0.459,0.486" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Center" Width="18" Checked="cb25_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="4" ScaleY="3"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="-30.18" Y="-0.81"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                        </Border>
+
+                        <Border Grid.Row="3" Grid.Column="0">
+                            <Label Content="3.你觉得能够控制&#xD;&#xA;自己的情绪吗？" Margin="49,3,79,5" FontSize="22"/>
+                        </Border>
+                        <Border Grid.Row="3" Grid.Column="1">
+                            <CheckBox x:Name="cb31" Content="" Margin="67,31,3,26" RenderTransformOrigin="2,1.5" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Center" Width="18" Checked="cb31_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="4" ScaleY="3"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="53.034" Y="29.61"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                        </Border>
+                        <Border Grid.Row="3" Grid.Column="2">
+                            <CheckBox x:Name="cb32" Content="" Margin="67,31,3,26" RenderTransformOrigin="0.459,0.486" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Center" Width="18" Checked="cb32_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="4" ScaleY="3"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="-30.18" Y="-0.81"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                        </Border>
+                        <Border Grid.Row="3" Grid.Column="3">
+                            <CheckBox x:Name="cb33" Content="" Margin="67,31,3,26" RenderTransformOrigin="0.459,0.486" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Center" Width="18" Checked="cb33_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="4" ScaleY="3"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="-30.18" Y="-0.81"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                        </Border>
+                        <Border Grid.Row="3" Grid.Column="4">
+                            <CheckBox x:Name="cb34" Content="" Margin="67,31,3,26" RenderTransformOrigin="0.459,0.486" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Center" Width="18" Checked="cb34_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="4" ScaleY="3"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="-30.18" Y="-0.81"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                        </Border>
+                        <Border Grid.Row="3" Grid.Column="5"></Border>
+                        <Border Grid.Row="3" Grid.Column="6">
+                            <CheckBox x:Name="cb35" Content="" Margin="67,31,3,26" RenderTransformOrigin="0.459,0.486" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Center" Width="18" Checked="cb35_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="4" ScaleY="3"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="-30.18" Y="-0.81"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                        </Border>
+
+                        <Border Grid.Row="4" Grid.Column="0">
+                            <Label Content="4.当遇到挫折时，你是否&#xD;&#xA;能很快将心态调整过来？" Margin="51,9,15,-1" FontSize="22"/>
+                        </Border>
+                        <Border Grid.Row="4" Grid.Column="1">
+                            <CheckBox x:Name="cb41" Content="" Margin="67,31,3,26" RenderTransformOrigin="0.459,0.486" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Center" Width="18" Checked="cb41_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="4" ScaleY="3"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="-30.18" Y="-0.81"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                        </Border>
+                        <Border Grid.Row="4" Grid.Column="2">
+                            <CheckBox x:Name="cb42" Content="" Margin="67,31,3,26" RenderTransformOrigin="0.459,0.486" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Center" Width="18" Checked="cb42_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="4" ScaleY="3"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="-30.18" Y="-0.81"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                        </Border>
+                        <Border Grid.Row="4" Grid.Column="3">
+                            <CheckBox x:Name="cb43" Content="" Margin="67,31,3,26" RenderTransformOrigin="0.459,0.486" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Center" Width="18" Checked="cb43_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="4" ScaleY="3"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="-30.18" Y="-0.81"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                        </Border>
+                        <Border Grid.Row="4" Grid.Column="4">
+                            <CheckBox x:Name="cb44" Content="" Margin="67,31,3,26" RenderTransformOrigin="0.459,0.486" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Center" Width="18" Checked="cb44_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="4" ScaleY="3"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="-30.18" Y="-0.81"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                        </Border>
+                        <Border Grid.Row="4" Grid.Column="5"></Border>
+                        <Border Grid.Row="4" Grid.Column="6">
+                            <CheckBox x:Name="cb45" Content="" Margin="67,31,3,26" RenderTransformOrigin="0.459,0.486" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Center" Width="18" Checked="cb45_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="4" ScaleY="3"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="-30.18" Y="-0.81"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                        </Border>
+
+                        <Border Grid.Row="5" Grid.Column="0">
+                            <Label Content="5.你觉得前途暗淡吗？" Margin="50,17,66,18" FontSize="22"/>
+                        </Border>
+                        <Border Grid.Row="5" Grid.Column="1">
+                            <CheckBox x:Name="cb51" Content="" Margin="67,31,3,25" RenderTransformOrigin="0.459,0.486" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Center" Width="18" Checked="cb51_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="4" ScaleY="3"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="-30.18" Y="-0.81"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                        </Border>
+                        <Border Grid.Row="5" Grid.Column="2">
+                            <CheckBox x:Name="cb52" Content="" Margin="67,31,3,25" RenderTransformOrigin="2,1.5" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Center" Width="18" Checked="cb52_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="4" ScaleY="3"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="53.034" Y="29.61"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                        </Border>
+                        <Border Grid.Row="5" Grid.Column="3">
+                            <CheckBox x:Name="cb53" Content="" Margin="67,31,3,25" RenderTransformOrigin="0.459,0.486" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Center" Width="18" Checked="cb53_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="4" ScaleY="3"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="-30.18" Y="-0.81"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                        </Border>
+                        <Border Grid.Row="5" Grid.Column="4">
+                            <CheckBox x:Name="cb54" Content="" Margin="67,31,3,25" RenderTransformOrigin="0.459,0.486" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Center" Width="18" Checked="cb54_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="4" ScaleY="3"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="-30.18" Y="-0.81"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                        </Border>
+                        <Border Grid.Row="5" Grid.Column="5"></Border>
+                        <Border Grid.Row="5" Grid.Column="6">
+                            <CheckBox x:Name="cb55" Content="" Margin="67,31,3,25" RenderTransformOrigin="0.459,0.486" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Center" Width="18" Checked="cb55_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="4" ScaleY="3"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="-30.18" Y="-0.81"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                        </Border>
+
+                    </Grid>
+                </Canvas>
+            </Grid>
+        </Canvas>
+    </Grid>
+</UserControl>

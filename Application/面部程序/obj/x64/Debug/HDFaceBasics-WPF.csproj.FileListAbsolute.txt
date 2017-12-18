@@ -1,0 +1,295 @@
+D:\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+D:\HDFaceBasics-WPF - 副本\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+D:\HDFaceBasics-WPF - 副本\bin\x64\Debug\HDFaceBasics-WPF.exe
+D:\HDFaceBasics-WPF - 副本\bin\x64\Debug\HDFaceBasics-WPF.pdb
+D:\HDFaceBasics-WPF - 副本\bin\x64\Debug\Microsoft.Kinect.Face.dll
+D:\HDFaceBasics-WPF - 副本\bin\x64\Debug\Microsoft.Kinect.Face.xml
+D:\HDFaceBasics-WPF - 副本\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+D:\HDFaceBasics-WPF - 副本\obj\x64\Debug\MainWindow.baml
+D:\HDFaceBasics-WPF - 副本\obj\x64\Debug\MainWindow.g.cs
+D:\HDFaceBasics-WPF - 副本\obj\x64\Debug\App.g.cs
+D:\HDFaceBasics-WPF - 副本\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+D:\HDFaceBasics-WPF - 副本\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+D:\HDFaceBasics-WPF - 副本\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+D:\HDFaceBasics-WPF - 副本\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+D:\HDFaceBasics-WPF - 副本\obj\x64\Debug\HDFaceBasics-WPF.exe
+D:\HDFaceBasics-WPF - 副本\obj\x64\Debug\HDFaceBasics-WPF.pdb
+D:\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+D:\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.exe
+D:\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.pdb
+D:\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.exe
+D:\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.pdb
+D:\MyHDface\bin\x64\Debug\Microsoft.Kinect.Face.dll
+D:\MyHDface\bin\x64\Debug\Microsoft.Kinect.Face.xml
+D:\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+D:\MyHDface\obj\x64\Debug\MainWindow.baml
+D:\MyHDface\obj\x64\Debug\MainWindow.g.cs
+D:\MyHDface\obj\x64\Debug\App.g.cs
+D:\MyHDface\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+D:\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+D:\MyHDface\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+D:\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+D:\lishun\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+D:\lishun\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.exe
+D:\lishun\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.pdb
+D:\lishun\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.exe
+D:\lishun\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.pdb
+D:\lishun\MyHDface\bin\x64\Debug\Microsoft.Kinect.Face.dll
+D:\lishun\MyHDface\bin\x64\Debug\Microsoft.Kinect.Face.xml
+D:\lishun\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+D:\lishun\MyHDface\obj\x64\Debug\MainWindow.baml
+D:\lishun\MyHDface\obj\x64\Debug\MainWindow.g.cs
+D:\lishun\MyHDface\obj\x64\Debug\App.g.cs
+D:\lishun\MyHDface\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+D:\lishun\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+D:\lishun\MyHDface\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+D:\lishun\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+D:\Kinect软件\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+D:\Kinect软件\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.exe
+D:\Kinect软件\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Desktop\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+C:\Users\ad\Desktop\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Desktop\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Desktop\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Desktop\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Desktop\MyHDface\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\ad\Desktop\MyHDface\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\ad\Desktop\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\ad\Desktop\MyHDface\obj\x64\Debug\MainWindow.baml
+C:\Users\ad\Desktop\MyHDface\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ad\Desktop\MyHDface\obj\x64\Debug\App.g.cs
+C:\Users\ad\Desktop\MyHDface\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+C:\Users\ad\Desktop\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+C:\Users\ad\Desktop\MyHDface\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Users\ad\Desktop\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\zhangzhan\Desktop\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+C:\Users\zhangzhan\Desktop\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\zhangzhan\Desktop\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\zhangzhan\Desktop\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\zhangzhan\Desktop\MyHDface\obj\x64\Debug\MainWindow.baml
+C:\Users\zhangzhan\Desktop\MyHDface\obj\x64\Debug\MainWindow.g.cs
+C:\Users\zhangzhan\Desktop\MyHDface\obj\x64\Debug\App.g.cs
+C:\Users\zhangzhan\Desktop\MyHDface\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+C:\Users\zhangzhan\Desktop\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+C:\Users\zhangzhan\Desktop\MyHDface\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Users\zhangzhan\Desktop\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\zhangzhan\Desktop\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\zhangzhan\Desktop\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\zhangzhan\Desktop\MyHDface\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\zhangzhan\Desktop\MyHDface\bin\x64\Debug\Microsoft.Kinect.Face.xml
+F:\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+F:\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.exe
+F:\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.pdb
+F:\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.exe
+F:\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.pdb
+F:\MyHDface\bin\x64\Debug\Microsoft.Kinect.Face.dll
+F:\MyHDface\bin\x64\Debug\Microsoft.Kinect.Face.xml
+F:\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+F:\MyHDface\obj\x64\Debug\MainWindow.baml
+F:\MyHDface\obj\x64\Debug\MainWindow.g.cs
+F:\MyHDface\obj\x64\Debug\App.g.cs
+F:\MyHDface\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+F:\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+F:\MyHDface\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+F:\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+F:\MyHDface正式\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+F:\MyHDface正式\obj\x64\Debug\HDFaceBasics-WPF.exe
+F:\MyHDface正式\obj\x64\Debug\HDFaceBasics-WPF.pdb
+F:\KINECT面部录像\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+F:\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF.exe
+F:\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF.pdb
+F:\KINECT面部录像\bin\x64\Debug\HDFaceBasics-WPF.exe
+F:\KINECT面部录像\bin\x64\Debug\HDFaceBasics-WPF.pdb
+F:\KINECT面部录像\bin\x64\Debug\Microsoft.Kinect.Face.dll
+F:\KINECT面部录像\bin\x64\Debug\Microsoft.Kinect.Face.xml
+F:\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+F:\KINECT面部录像\obj\x64\Debug\MainWindow.baml
+F:\KINECT面部录像\obj\x64\Debug\MainWindow.g.cs
+F:\KINECT面部录像\obj\x64\Debug\App.g.cs
+F:\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+F:\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+F:\KINECT面部录像\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+F:\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\ad\Desktop\新建文件夹\KINECT面部录像\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+C:\Users\ad\Desktop\新建文件夹\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Desktop\新建文件夹\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\bin\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\bin\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\obj\x64\Debug\MainWindow.baml
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\obj\x64\Debug\App.g.cs
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\ad\Desktop\正式程序\6段视频面部录像\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+C:\Users\ad\Desktop\正式程序\6段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Desktop\正式程序\6段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Desktop\正式程序\6段视频面部录像\bin\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Desktop\正式程序\6段视频面部录像\bin\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Desktop\正式程序\6段视频面部录像\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\ad\Desktop\正式程序\6段视频面部录像\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\ad\Desktop\正式程序\6段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\ad\Desktop\正式程序\6段视频面部录像\obj\x64\Debug\MainWindow.baml
+C:\Users\ad\Desktop\正式程序\6段视频面部录像\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ad\Desktop\正式程序\6段视频面部录像\obj\x64\Debug\App.g.cs
+C:\Users\ad\Desktop\正式程序\6段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+C:\Users\ad\Desktop\正式程序\6段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+C:\Users\ad\Desktop\正式程序\6段视频面部录像\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Users\ad\Desktop\正式程序\6段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\ad\Desktop\6段视频面部录像\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Desktop\6段视频面部录像\bin\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Desktop\6段视频面部录像\bin\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Desktop\6段视频面部录像\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\ad\Desktop\6段视频面部录像\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\MainWindow.baml
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\App.g.cs
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\VideoPlayer.baml
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\VideoPlayer.g.cs
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\ShowFace.baml
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\ShowFace.g.cs
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\ShowPicture.baml
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\ShowPicture.g.cs
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\EmotionTest.baml
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\EmotionTest.g.cs
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\QuestionnaireHealth.baml
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\QuestionnaireHealth.g.cs
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\QuestionnaireDemography_1.baml
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\QuestionnaireDemography_1.g.cs
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\REMIT.baml
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\REMIT.g.cs
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\QuestionnaireDemography_2.baml
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\QuestionnaireDemography_2.g.cs
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\QuestionnairePSQI.baml
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\QuestionnairePSQI.g.cs
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\Login.baml
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\Login.g.cs
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF_Content.g.cs
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\Saving.baml
+C:\Users\ad\Desktop\6段视频面部录像\obj\x64\Debug\Saving.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\bin\x64\Debug\Images\SAM-A-7.png
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\bin\x64\Debug\Images\SAM-VP-9.png
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\bin\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\bin\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\bin\x64\Debug\Voice.exe
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\bin\x64\Debug\Voice.pdb
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\EmotionTest.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\End.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\GuideBackupVideo.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\Login.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\MainWindow.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\MakeSure.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\MicroPhoneTest.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\QuestionnaireDemography_1.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\QuestionnaireDemography_2.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\QuestionnaireHealth.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\QuestionnairePSQI.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\Relex.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\REMIT.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\Report.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\Saving.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\ShowFace.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\ShowPicture.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\VideoGuide.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\VideoPlayer.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\EmotionTest.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\End.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\GuideBackupVideo.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\Login.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\MakeSure.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\MicroPhoneTest.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\QuestionnaireDemography_1.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\QuestionnaireDemography_2.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\QuestionnaireHealth.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\QuestionnairePSQI.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\Relex.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\REMIT.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\Report.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\Saving.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\ShowFace.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\ShowPicture.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\VideoGuide.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\VideoPlayer.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\App.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\HDFaceBasics-WPF_Content.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\HDFaceBasics-WPF.pdb
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\bin\x64\Debug\Images\SAM-A-7.png
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\bin\x64\Debug\Images\SAM-VP-9.png
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\bin\x64\Debug\HDFaceBasics-WPF.exe
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\bin\x64\Debug\HDFaceBasics-WPF.pdb
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\bin\x64\Debug\Microsoft.Kinect.Face.dll
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\bin\x64\Debug\Voice.exe
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\bin\x64\Debug\Voice.pdb
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\bin\x64\Debug\Microsoft.Kinect.Face.xml
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\EmotionTest.baml
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\End.baml
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\GuideBackupVideo.baml
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\Login.baml
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\MainWindow.baml
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\MakeSure.baml
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\MicroPhoneTest.baml
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\QuestionnaireDemography_1.baml
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\QuestionnaireDemography_2.baml
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\QuestionnaireHealth.baml
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\QuestionnairePSQI.baml
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\Relex.baml
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\REMIT.baml
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\Report.baml
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\Saving.baml
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\ShowFace.baml
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\ShowPicture.baml
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\VideoGuide.baml
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\VideoPlayer.baml
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\EmotionTest.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\End.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\GuideBackupVideo.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\Login.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\MainWindow.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\MakeSure.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\MicroPhoneTest.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\QuestionnaireDemography_1.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\QuestionnaireDemography_2.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\QuestionnaireHealth.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\QuestionnairePSQI.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\Relex.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\REMIT.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\Report.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\Saving.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\ShowFace.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\ShowPicture.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\VideoGuide.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\VideoPlayer.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\App.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\HDFaceBasics-WPF_Content.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\HDFaceBasics-WPF.exe
+F:\ad\Visual Studio 2012\Projects\Application\面部程序\obj\x64\Debug\HDFaceBasics-WPF.pdb

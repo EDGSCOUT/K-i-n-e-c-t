@@ -1,0 +1,298 @@
+﻿<UserControl x:Class="EmotionTest.EmotionTest"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d"
+             >
+    <Grid>
+        <Canvas x:Name="empty" Height="569" Width="792"/>
+
+        <Button x:Name="Submit" Content="提交" Margin="478,0,477,4" VerticalAlignment="Bottom" Height="35" Click="button_Click" HorizontalAlignment="Center" Width="80" FontSize="20"/>
+        <Grid Margin="0,0,0,42">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="71*"/>
+                <RowDefinition Height="60*"/>
+                <RowDefinition Height="191*"/>
+                <RowDefinition Height="50*"/>
+                <RowDefinition Height="191*"/>
+            </Grid.RowDefinitions>
+
+            <Border Grid.Row="0" Grid.Column="0">
+                <Image x:Name="emotion1"/>
+            </Border>
+
+            <Border Grid.Row="1" Grid.Column="0">
+                <Viewbox HorizontalAlignment="Left" Width="685" Margin="-9,-1,0,0" Height="49">
+                    <Image x:Name="emotion2" Height="134" Width="1877"/>
+                </Viewbox>
+            </Border>
+
+            <Border Grid.Row="2" Grid.Column="0">
+                <Grid Margin="45,2,45,82">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="100*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Border Grid.Row="0" Grid.Column="0">
+                        <Grid Margin="0,0,0,0">
+                            <Image x:Name="p11"/>
+                            <Label Content="非常消极" HorizontalAlignment="Center" Margin="20,0,22,-38" FontSize="20" Width="93" MaxHeight="34" Height="34" VerticalAlignment="Bottom"/>
+                            <RadioButton x:Name="rb11" Content="" HorizontalAlignment="Center" Margin="60,145,59,-56" RenderTransformOrigin="0.5,0.5" Width="14" GroupName="g1" Foreground="Black" Height="14" VerticalAlignment="Bottom">
+                                <RadioButton.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </RadioButton.RenderTransform>
+                            </RadioButton>
+                        </Grid>
+                    </Border>
+                    <Border Grid.Row="0" Grid.Column="1">
+                        <Grid Margin="0,0,0,0">
+                            <Image x:Name="p12"/>
+                            <Label Content="有些消极" HorizontalAlignment="Center" Margin="20,0,22,-38" FontSize="20" Width="93" MaxHeight="34" Height="34" VerticalAlignment="Bottom"/>
+                            <RadioButton x:Name="rb12" Content="" HorizontalAlignment="Center" Margin="60,145,59,-56" RenderTransformOrigin="0.5,0.5" Width="14" GroupName="g1" Foreground="Black" Height="14" VerticalAlignment="Bottom">
+                                <RadioButton.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </RadioButton.RenderTransform>
+                            </RadioButton>
+                        </Grid>
+                    </Border>
+                    <Border Grid.Row="0" Grid.Column="2">
+                        <Grid Margin="0,0,0,0">
+                            <Image x:Name="p13"/>
+                            <Label Content="有点消极" HorizontalAlignment="Center" Margin="20,0,22,-38" FontSize="20" Width="93" MaxHeight="34" Height="34" VerticalAlignment="Bottom"/>
+                            <RadioButton x:Name="rb13" Content="" HorizontalAlignment="Center" Margin="60,145,59,-56" RenderTransformOrigin="0.5,0.5" Width="14" GroupName="g1" Foreground="Black" Height="14" VerticalAlignment="Bottom">
+                                <RadioButton.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </RadioButton.RenderTransform>
+                            </RadioButton>
+                        </Grid>
+                    </Border>
+                    <Border Grid.Row="0" Grid.Column="3">
+                        <Grid Margin="0,0,0,0">
+                            <Image x:Name="p14"/>
+                            <Label Content="平静" HorizontalAlignment="Center" Margin="41,107,40,-38" FontSize="20" Width="52" MaxHeight="34" Height="34" VerticalAlignment="Bottom"/>
+                            <RadioButton x:Name="rb14" Content="" HorizontalAlignment="Center" Margin="60,145,59,-56" RenderTransformOrigin="0.5,0.5" Width="14" GroupName="g1" Foreground="Black" Height="14" VerticalAlignment="Bottom">
+                                <RadioButton.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </RadioButton.RenderTransform>
+                            </RadioButton>
+                        </Grid>
+                    </Border>
+                    <Border Grid.Row="0" Grid.Column="4">
+                        <Grid Margin="0,0,0,0">
+                            <Image x:Name="p15"/>
+                            <Label Content="有点积极" HorizontalAlignment="Center" Margin="20,0,22,-38" FontSize="20" Width="93" MaxHeight="34" Height="34" VerticalAlignment="Bottom"/>
+                            <RadioButton x:Name="rb15" Content="" HorizontalAlignment="Center" Margin="60,145,59,-56" RenderTransformOrigin="0.5,0.5" Width="14" GroupName="g1" Foreground="Black" Height="14" VerticalAlignment="Bottom">
+                                <RadioButton.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </RadioButton.RenderTransform>
+                            </RadioButton>
+                        </Grid>
+                    </Border>
+                    <Border Grid.Row="0" Grid.Column="5">
+                        <Grid Margin="0,0,0,0">
+                            <Image x:Name="p16"/>
+                            <RadioButton x:Name="rb16" Content="" HorizontalAlignment="Center" Margin="60,145,59,-56" RenderTransformOrigin="0.5,0.5" Width="14" GroupName="g1" Foreground="Black" Height="14" VerticalAlignment="Bottom">
+                                <RadioButton.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </RadioButton.RenderTransform>
+                            </RadioButton>
+                            <Label Content="有些积极" HorizontalAlignment="Center" Margin="20,0,22,-38" FontSize="20" Width="93" MaxHeight="34" Height="34" VerticalAlignment="Bottom"/>
+                        </Grid>
+                    </Border>
+                    <Border Grid.Row="0" Grid.Column="6">
+                        <Grid Margin="0,0,0,0">
+                            <Image x:Name="p17"/>
+                            <RadioButton x:Name="rb17" Content="" HorizontalAlignment="Center" Margin="60,145,59,-56" RenderTransformOrigin="0.5,0.5" Width="14" GroupName="g1" Foreground="Black" Height="14" VerticalAlignment="Bottom">
+                                <RadioButton.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </RadioButton.RenderTransform>
+                            </RadioButton>
+                            <Label Content="非常积极" HorizontalAlignment="Center" Margin="20,0,22,-38" FontSize="20" Width="93" MaxHeight="34" Height="34" VerticalAlignment="Bottom"/>
+                        </Grid>
+                    </Border>
+
+                </Grid>
+
+            </Border>
+
+            <Border Grid.Row="3" Grid.Column="0">
+                <Viewbox HorizontalAlignment="Left" Width="861" Margin="-39,-1,0,0" Height="49">
+                    <Image x:Name="emotion3" Height="134" Width="2475"/>
+                </Viewbox>
+            </Border>
+
+            <Border Grid.Row="4" Grid.Column="0" Margin="0,0,14,0">
+                <Grid Margin="45,2,45,82">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="100*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Border Grid.Row="0" Grid.Column="0">
+                        <Grid Margin="0,0,0,0">
+                            <Image x:Name="p21"/>
+                            <RadioButton x:Name="rb21" Content="" HorizontalAlignment="Center" Margin="60,145,59,-56" RenderTransformOrigin="0.5,0.5" Width="14" GroupName="g2" Foreground="Black" Height="14" VerticalAlignment="Bottom">
+                                <RadioButton.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </RadioButton.RenderTransform>
+                            </RadioButton>
+                            <Label Content="微弱感到" HorizontalAlignment="Center" Margin="20,0,22,-38" FontSize="20" Width="93" MaxHeight="34" Height="34" VerticalAlignment="Bottom"/>
+                        </Grid>
+                    </Border>
+                    <Border Grid.Row="0" Grid.Column="1">
+                        <Grid Margin="0,0,0,0">
+                            <Image x:Name="p22"/>
+                            <RadioButton x:Name="rb22" Content="" HorizontalAlignment="Center" Margin="60,145,59,-56" RenderTransformOrigin="0.5,0.5" Width="14" GroupName="g2" Foreground="Black" Height="14" VerticalAlignment="Bottom">
+                                <RadioButton.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </RadioButton.RenderTransform>
+                            </RadioButton>
+                            <Label Content="有点感觉" HorizontalAlignment="Center" Margin="20,0,22,-38" FontSize="20" Width="93" MaxHeight="34" Height="34" VerticalAlignment="Bottom"/>
+                        </Grid>
+                    </Border>
+                    <Border Grid.Row="0" Grid.Column="2">
+                        <Grid Margin="0,0,0,0">
+                            <Image x:Name="p23"/>
+                            <RadioButton x:Name="rb23" Content="" HorizontalAlignment="Center" Margin="60,145,59,-56" RenderTransformOrigin="0.5,0.5" Width="14" GroupName="g2" Foreground="Black" Height="14" VerticalAlignment="Bottom">
+                                <RadioButton.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </RadioButton.RenderTransform>
+                            </RadioButton>
+                            <Label Content="有些感觉" HorizontalAlignment="Center" Margin="20,0,22,-38" FontSize="20" Width="93" MaxHeight="34" Height="34" VerticalAlignment="Bottom"/>
+                        </Grid>
+                    </Border>
+                    <Border Grid.Row="0" Grid.Column="3">
+                        <Grid Margin="0,0,0,0">
+                            <Image x:Name="p24"/>
+                            <Label Content="中等强烈" HorizontalAlignment="Center" Margin="20,0,21,-38" FontSize="20" Width="92" MaxHeight="34" Height="34" VerticalAlignment="Bottom"/>
+                            <RadioButton x:Name="rb24" Content="" HorizontalAlignment="Center" Margin="60,145,59,-56" RenderTransformOrigin="0.5,0.5" Width="14" GroupName="g2" Foreground="Black" Height="14" VerticalAlignment="Bottom">
+                                <RadioButton.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </RadioButton.RenderTransform>
+                            </RadioButton>
+                        </Grid>
+                    </Border>
+                    <Border Grid.Row="0" Grid.Column="4">
+                        <Grid Margin="0,0,0,0">
+                            <Image x:Name="p25"/>
+                            <RadioButton x:Name="rb25" Content="" HorizontalAlignment="Center" Margin="60,145,59,-56" RenderTransformOrigin="0.5,0.5" Width="14" GroupName="g2" Foreground="Black" Height="14" VerticalAlignment="Bottom">
+                                <RadioButton.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </RadioButton.RenderTransform>
+                            </RadioButton>
+                            <Label Content="相当强烈" HorizontalAlignment="Center" Margin="20,0,22,-38" FontSize="20" Width="93" MaxHeight="34" Height="34" VerticalAlignment="Bottom"/>
+                        </Grid>
+                    </Border>
+                    <Border Grid.Row="0" Grid.Column="5">
+                        <Grid Margin="0,0,0,0">
+                            <Image x:Name="p26"/>
+                            <RadioButton x:Name="rb26" Content="" HorizontalAlignment="Center" Margin="60,145,59,-56" RenderTransformOrigin="0.5,0.5" Width="14" GroupName="g2" Foreground="Black" Height="14" VerticalAlignment="Bottom">
+                                <RadioButton.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </RadioButton.RenderTransform>
+                            </RadioButton>
+                            <Label Content="非常强烈" HorizontalAlignment="Center" Margin="20,0,22,-38" FontSize="20" Width="93" MaxHeight="34" Height="34" VerticalAlignment="Bottom"/>
+                        </Grid>
+                    </Border>
+                    <Border Grid.Row="0" Grid.Column="6">
+                        <Grid Margin="0,0,0,0">
+                            <Image x:Name="p27"/>
+                            <Label Content="极其强烈" HorizontalAlignment="Center" Margin="20,0,21,-38" FontSize="20" Width="92" MaxHeight="34" Height="34" VerticalAlignment="Bottom"/>
+                            <RadioButton x:Name="rb27" Content="" HorizontalAlignment="Center" Margin="60,145,59,-56" RenderTransformOrigin="0.5,0.5" Width="14" GroupName="g2" Foreground="Black" Height="14" VerticalAlignment="Bottom">
+                                <RadioButton.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </RadioButton.RenderTransform>
+                            </RadioButton>
+                        </Grid>
+                    </Border>
+
+                </Grid>
+            </Border>
+
+        </Grid>
+    </Grid>
+</UserControl>
+

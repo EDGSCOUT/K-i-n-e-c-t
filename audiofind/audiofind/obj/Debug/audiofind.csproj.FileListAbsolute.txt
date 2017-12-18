@@ -1,0 +1,13 @@
+c:\users\ad\documents\visual studio 2012\Projects\audiofind\audiofind\bin\Debug\audiofind.exe.config
+c:\users\ad\documents\visual studio 2012\Projects\audiofind\audiofind\bin\Debug\audiofind.exe
+c:\users\ad\documents\visual studio 2012\Projects\audiofind\audiofind\bin\Debug\audiofind.pdb
+c:\users\ad\documents\visual studio 2012\Projects\audiofind\audiofind\obj\Debug\audiofind.csprojResolveAssemblyReference.cache
+c:\users\ad\documents\visual studio 2012\Projects\audiofind\audiofind\obj\Debug\MainWindow.baml
+c:\users\ad\documents\visual studio 2012\Projects\audiofind\audiofind\obj\Debug\MainWindow.g.cs
+c:\users\ad\documents\visual studio 2012\Projects\audiofind\audiofind\obj\Debug\App.g.cs
+c:\users\ad\documents\visual studio 2012\Projects\audiofind\audiofind\obj\Debug\audiofind_MarkupCompile.cache
+c:\users\ad\documents\visual studio 2012\Projects\audiofind\audiofind\obj\Debug\audiofind.g.resources
+c:\users\ad\documents\visual studio 2012\Projects\audiofind\audiofind\obj\Debug\audiofind.Properties.Resources.resources
+c:\users\ad\documents\visual studio 2012\Projects\audiofind\audiofind\obj\Debug\audiofind.csproj.GenerateResource.Cache
+c:\users\ad\documents\visual studio 2012\Projects\audiofind\audiofind\obj\Debug\audiofind.exe
+c:\users\ad\documents\visual studio 2012\Projects\audiofind\audiofind\obj\Debug\audiofind.pdb

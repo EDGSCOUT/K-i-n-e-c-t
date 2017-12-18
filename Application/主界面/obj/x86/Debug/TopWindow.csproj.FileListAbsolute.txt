@@ -1,0 +1,153 @@
+J:\Application\主界面\obj\x86\Debug\TopWindow.csprojResolveAssemblyReference.cache
+J:\Application\主界面\obj\x86\Debug\MainWindow.baml
+J:\Application\主界面\obj\x86\Debug\MainWindow.g.cs
+J:\Application\主界面\obj\x86\Debug\App.g.cs
+J:\Application\主界面\obj\x86\Debug\TopWindow_Content.g.cs
+J:\Application\主界面\obj\x86\Debug\TopWindow_MarkupCompile.cache
+J:\Application\主界面\obj\x86\Debug\TopWindow.g.resources
+J:\Application\主界面\obj\x86\Debug\TopWindow.Properties.Resources.resources
+J:\Application\主界面\obj\x86\Debug\TopWindow.csproj.GenerateResource.Cache
+J:\Application\主界面\bin\x86\Debug\Images\SAM-A-7.png
+J:\Application\主界面\bin\x86\Debug\Images\SAM-VP-9.png
+J:\Application\主界面\bin\x86\Debug\TopWindow.exe.config
+J:\Application\主界面\bin\x86\Debug\TopWindow.exe
+J:\Application\主界面\bin\x86\Debug\TopWindow.pdb
+J:\Application\主界面\bin\x86\Debug\BodyBasics-WPF.exe
+J:\Application\主界面\bin\x86\Debug\EmotionStudy.exe
+J:\Application\主界面\bin\x86\Debug\HDFaceBasics-WPF.exe
+J:\Application\主界面\bin\x86\Debug\microsoft.directx.directsound.dll
+J:\Application\主界面\bin\x86\Debug\Microsoft.DirectX.dll
+J:\Application\主界面\bin\x86\Debug\Microsoft.Kinect.Face.dll
+J:\Application\主界面\bin\x86\Debug\Voice.exe
+J:\Application\主界面\bin\x86\Debug\EmotionStudy.pdb
+J:\Application\主界面\bin\x86\Debug\BodyBasics-WPF.pdb
+J:\Application\主界面\bin\x86\Debug\Voice.pdb
+J:\Application\主界面\bin\x86\Debug\HDFaceBasics-WPF.pdb
+J:\Application\主界面\bin\x86\Debug\Microsoft.Kinect.Face.xml
+J:\Application\主界面\obj\x86\Debug\TopWindow.exe
+J:\Application\主界面\obj\x86\Debug\TopWindow.pdb
+J:\程序\Application\主界面\bin\x86\Debug\TopWindow.exe.config
+J:\程序\Application\主界面\obj\x86\Debug\TopWindow.exe
+J:\程序\Application\主界面\obj\x86\Debug\TopWindow.pdb
+J:\程序\Application\主界面\bin\x86\Debug\Images\SAM-A-7.png
+J:\程序\Application\主界面\bin\x86\Debug\Images\SAM-VP-9.png
+J:\程序\Application\主界面\bin\x86\Debug\TopWindow.exe
+J:\程序\Application\主界面\bin\x86\Debug\TopWindow.pdb
+J:\程序\Application\主界面\bin\x86\Debug\BodyBasics-WPF.exe
+J:\程序\Application\主界面\bin\x86\Debug\EmotionStudy.exe
+J:\程序\Application\主界面\bin\x86\Debug\HDFaceBasics-WPF.exe
+J:\程序\Application\主界面\bin\x86\Debug\microsoft.directx.directsound.dll
+J:\程序\Application\主界面\bin\x86\Debug\Microsoft.DirectX.dll
+J:\程序\Application\主界面\bin\x86\Debug\Microsoft.Kinect.Face.dll
+J:\程序\Application\主界面\bin\x86\Debug\Voice.exe
+J:\程序\Application\主界面\bin\x86\Debug\EmotionStudy.pdb
+J:\程序\Application\主界面\bin\x86\Debug\BodyBasics-WPF.pdb
+J:\程序\Application\主界面\bin\x86\Debug\Voice.pdb
+J:\程序\Application\主界面\bin\x86\Debug\HDFaceBasics-WPF.pdb
+J:\程序\Application\主界面\bin\x86\Debug\Microsoft.Kinect.Face.xml
+J:\程序\Application\主界面\obj\x86\Debug\TopWindow.csprojResolveAssemblyReference.cache
+J:\程序\Application\主界面\obj\x86\Debug\BDI.baml
+J:\程序\Application\主界面\obj\x86\Debug\BodyAndVoice.baml
+J:\程序\Application\主界面\obj\x86\Debug\Log.baml
+J:\程序\Application\主界面\obj\x86\Debug\Login.baml
+J:\程序\Application\主界面\obj\x86\Debug\MainWindow.baml
+J:\程序\Application\主界面\obj\x86\Debug\VHI.baml
+J:\程序\Application\主界面\obj\x86\Debug\VoiceAndVideo.baml
+J:\程序\Application\主界面\obj\x86\Debug\BDI.g.cs
+J:\程序\Application\主界面\obj\x86\Debug\BodyAndVoice.g.cs
+J:\程序\Application\主界面\obj\x86\Debug\Log.g.cs
+J:\程序\Application\主界面\obj\x86\Debug\Login.g.cs
+J:\程序\Application\主界面\obj\x86\Debug\MainWindow.g.cs
+J:\程序\Application\主界面\obj\x86\Debug\VHI.g.cs
+J:\程序\Application\主界面\obj\x86\Debug\VoiceAndVideo.g.cs
+J:\程序\Application\主界面\obj\x86\Debug\App.g.cs
+J:\程序\Application\主界面\obj\x86\Debug\TopWindow_Content.g.cs
+J:\程序\Application\主界面\obj\x86\Debug\TopWindow_MarkupCompile.cache
+J:\程序\Application\主界面\obj\x86\Debug\TopWindow.g.resources
+J:\程序\Application\主界面\obj\x86\Debug\TopWindow.Properties.Resources.resources
+J:\程序\Application\主界面\obj\x86\Debug\TopWindow.csproj.GenerateResource.Cache
+G:\程序\Application\主界面\bin\x86\Debug\TopWindow.exe.config
+G:\程序\Application\主界面\obj\x86\Debug\TopWindow.exe
+G:\程序\Application\主界面\obj\x86\Debug\TopWindow.pdb
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\Images\SAM-A-7.png
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\Images\SAM-VP-9.png
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\TopWindow.exe.config
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\TopWindow.exe
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\TopWindow.pdb
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\BodyBasics-WPF.exe
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\EmotionStudy.exe
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\microsoft.directx.directsound.dll
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\Microsoft.DirectX.dll
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\Voice.exe
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\EmotionStudy.pdb
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\BodyBasics-WPF.pdb
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\Voice.pdb
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\TopWindow.csprojResolveAssemblyReference.cache
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\BDI.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\BodyAndVoice.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\Log.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\Login.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\MainWindow.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\QuestionnaireHealth.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\VHI.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\VoiceAndVideo.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\BDI.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\BodyAndVoice.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\Log.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\Login.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\QuestionnaireHealth.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\VHI.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\VoiceAndVideo.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\App.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\TopWindow_Content.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\TopWindow_MarkupCompile.cache
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\TopWindow.g.resources
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\TopWindow.Properties.Resources.resources
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\TopWindow.csproj.GenerateResource.Cache
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\TopWindow.exe
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\TopWindow.pdb
+F:\ad\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\TopWindow.exe.config
+F:\ad\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\TopWindow.exe
+F:\ad\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\TopWindow.pdb
+F:\ad\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\Images\SAM-A-7.png
+F:\ad\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\Images\SAM-VP-9.png
+F:\ad\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\TopWindow.exe
+F:\ad\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\TopWindow.pdb
+F:\ad\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\BodyBasics-WPF.exe
+F:\ad\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\EmotionStudy.exe
+F:\ad\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\HDFaceBasics-WPF.exe
+F:\ad\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\Microsoft.Kinect.Face.dll
+F:\ad\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\Voice.exe
+F:\ad\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\EmotionStudy.pdb
+F:\ad\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\BodyBasics-WPF.pdb
+F:\ad\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\Voice.pdb
+F:\ad\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\HDFaceBasics-WPF.pdb
+F:\ad\Visual Studio 2012\Projects\Application\主界面\bin\x86\Debug\Microsoft.Kinect.Face.xml
+F:\ad\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\TopWindow.csprojResolveAssemblyReference.cache
+F:\ad\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\BDI.baml
+F:\ad\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\BodyAndVoice.baml
+F:\ad\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\Log.baml
+F:\ad\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\Login.baml
+F:\ad\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\MainWindow.baml
+F:\ad\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\QuestionnaireHealth.baml
+F:\ad\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\VHI.baml
+F:\ad\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\VoiceAndVideo.baml
+F:\ad\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\BDI.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\BodyAndVoice.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\Log.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\Login.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\MainWindow.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\QuestionnaireHealth.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\VHI.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\VoiceAndVideo.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\App.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\TopWindow_Content.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\TopWindow_MarkupCompile.cache
+F:\ad\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\TopWindow.g.resources
+F:\ad\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\TopWindow.Properties.Resources.resources
+F:\ad\Visual Studio 2012\Projects\Application\主界面\obj\x86\Debug\TopWindow.csproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="DataIntegration.MainWindow"
+        Title="数据整合" Height="350" Width="525" ResizeMode="NoResize">
+    <Grid>
+        <Button x:Name="start" Content="开始" HorizontalAlignment="Center" Margin="0,0,0,10" VerticalAlignment="Bottom" Width="67" Height="22" Click="Button_Click_1" d:IsHidden="True"/>
+        <Label x:Name="state" Content="整合完成" HorizontalAlignment="Center" Margin="215,139,215,0" VerticalAlignment="Top" Width="89" FontSize="20" d:IsHidden="True"/>
+        <Button x:Name="close" Content="关闭" HorizontalAlignment="Center" Margin="0,0,0,10" VerticalAlignment="Bottom" Width="67" Height="22" Click="close_Click_1"/>
+        <Label x:Name="doing" Content="正在整合数据" HorizontalAlignment="Center" Margin="0,139,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Label x:Name="guide" Content="请打开被试文件夹存放的路径" HorizontalAlignment="Center" Margin="124,139,125,0" VerticalAlignment="Top" FontSize="20" Width="270" d:IsHidden="True"/>
+
+    </Grid>
+</Window>

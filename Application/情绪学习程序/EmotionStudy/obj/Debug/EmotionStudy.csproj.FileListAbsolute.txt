@@ -1,0 +1,129 @@
+c:\users\administrator\documents\visual studio 2013\Projects\EmotionStudy\EmotionStudy\bin\Debug\EmotionStudy.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\EmotionStudy\EmotionStudy\bin\Debug\EmotionStudy.exe
+c:\users\administrator\documents\visual studio 2013\Projects\EmotionStudy\EmotionStudy\bin\Debug\EmotionStudy.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\EmotionStudy\EmotionStudy\obj\Debug\EmotionStudy.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\EmotionStudy\EmotionStudy\obj\Debug\MainWindow.baml
+c:\users\administrator\documents\visual studio 2013\Projects\EmotionStudy\EmotionStudy\obj\Debug\MainWindow.g.cs
+c:\users\administrator\documents\visual studio 2013\Projects\EmotionStudy\EmotionStudy\obj\Debug\App.g.cs
+c:\users\administrator\documents\visual studio 2013\Projects\EmotionStudy\EmotionStudy\obj\Debug\EmotionStudy_MarkupCompile.cache
+c:\users\administrator\documents\visual studio 2013\Projects\EmotionStudy\EmotionStudy\obj\Debug\EmotionStudy.g.resources
+c:\users\administrator\documents\visual studio 2013\Projects\EmotionStudy\EmotionStudy\obj\Debug\EmotionStudy.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\EmotionStudy\EmotionStudy\obj\Debug\EmotionStudy.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\EmotionStudy\EmotionStudy\obj\Debug\EmotionStudy.exe
+c:\users\administrator\documents\visual studio 2013\Projects\EmotionStudy\EmotionStudy\obj\Debug\EmotionStudy.pdb
+J:\Application\情绪学习程序\EmotionStudy\bin\Debug\EmotionStudy.exe.config
+J:\Application\情绪学习程序\EmotionStudy\bin\Debug\EmotionStudy.exe
+J:\Application\情绪学习程序\EmotionStudy\bin\Debug\EmotionStudy.pdb
+J:\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy.csprojResolveAssemblyReference.cache
+J:\Application\情绪学习程序\EmotionStudy\obj\Debug\MainWindow.baml
+J:\Application\情绪学习程序\EmotionStudy\obj\Debug\MainWindow.g.cs
+J:\Application\情绪学习程序\EmotionStudy\obj\Debug\App.g.cs
+J:\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy_MarkupCompile.cache
+J:\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy.g.resources
+J:\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy.Properties.Resources.resources
+J:\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy.csproj.GenerateResource.Cache
+J:\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy.exe
+J:\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy.pdb
+J:\程序\Application\情绪学习程序\EmotionStudy\bin\Debug\Images\SAM-A-7.png
+J:\程序\Application\情绪学习程序\EmotionStudy\bin\Debug\Images\SAM-VP-9.png
+J:\程序\Application\情绪学习程序\EmotionStudy\bin\Debug\EmotionStudy.exe.config
+J:\程序\Application\情绪学习程序\EmotionStudy\bin\Debug\EmotionStudy.exe
+J:\程序\Application\情绪学习程序\EmotionStudy\bin\Debug\EmotionStudy.pdb
+J:\程序\Application\情绪学习程序\EmotionStudy\bin\Debug\HDFaceBasics-WPF.exe
+J:\程序\Application\情绪学习程序\EmotionStudy\bin\Debug\Microsoft.DirectX.DirectSound.dll
+J:\程序\Application\情绪学习程序\EmotionStudy\bin\Debug\Microsoft.Kinect.dll
+J:\程序\Application\情绪学习程序\EmotionStudy\bin\Debug\Microsoft.Kinect.Face.dll
+J:\程序\Application\情绪学习程序\EmotionStudy\bin\Debug\Microsoft.DirectX.dll
+J:\程序\Application\情绪学习程序\EmotionStudy\bin\Debug\Voice.exe
+J:\程序\Application\情绪学习程序\EmotionStudy\bin\Debug\HDFaceBasics-WPF.pdb
+J:\程序\Application\情绪学习程序\EmotionStudy\bin\Debug\Microsoft.Kinect.xml
+J:\程序\Application\情绪学习程序\EmotionStudy\bin\Debug\Microsoft.Kinect.Face.xml
+J:\程序\Application\情绪学习程序\EmotionStudy\bin\Debug\Voice.pdb
+J:\程序\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy.csprojResolveAssemblyReference.cache
+J:\程序\Application\情绪学习程序\EmotionStudy\obj\Debug\GuideQuestion.baml
+J:\程序\Application\情绪学习程序\EmotionStudy\obj\Debug\MainGuide.baml
+J:\程序\Application\情绪学习程序\EmotionStudy\obj\Debug\MainWindow.baml
+J:\程序\Application\情绪学习程序\EmotionStudy\obj\Debug\Question1.baml
+J:\程序\Application\情绪学习程序\EmotionStudy\obj\Debug\Question2.baml
+J:\程序\Application\情绪学习程序\EmotionStudy\obj\Debug\Video.baml
+J:\程序\Application\情绪学习程序\EmotionStudy\obj\Debug\GuideQuestion.g.cs
+J:\程序\Application\情绪学习程序\EmotionStudy\obj\Debug\MainGuide.g.cs
+J:\程序\Application\情绪学习程序\EmotionStudy\obj\Debug\MainWindow.g.cs
+J:\程序\Application\情绪学习程序\EmotionStudy\obj\Debug\Question1.g.cs
+J:\程序\Application\情绪学习程序\EmotionStudy\obj\Debug\Question2.g.cs
+J:\程序\Application\情绪学习程序\EmotionStudy\obj\Debug\Video.g.cs
+J:\程序\Application\情绪学习程序\EmotionStudy\obj\Debug\App.g.cs
+J:\程序\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy_MarkupCompile.cache
+J:\程序\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy.g.resources
+J:\程序\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy.Properties.Resources.resources
+J:\程序\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy.csproj.GenerateResource.Cache
+J:\程序\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy.exe
+J:\程序\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy.pdb
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\Images\SAM-A-7.png
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\Images\SAM-VP-9.png
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\EmotionStudy.exe.config
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\EmotionStudy.exe
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\EmotionStudy.pdb
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\Microsoft.Kinect.dll
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\Microsoft.DirectX.dll
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\Voice.exe
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\Microsoft.Kinect.xml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\Voice.pdb
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy.csprojResolveAssemblyReference.cache
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\GuideQuestion.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\MainGuide.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\MainWindow.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\Question1.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\Question2.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\Video.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\GuideQuestion.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\MainGuide.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\MainWindow.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\Question1.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\Question2.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\Video.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\App.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy_MarkupCompile.cache
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy.g.resources
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy.Properties.Resources.resources
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy.csproj.GenerateResource.Cache
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy.exe
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy.pdb
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\Images\SAM-A-7.png
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\Images\SAM-VP-9.png
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\EmotionStudy.exe.config
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\EmotionStudy.exe
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\EmotionStudy.pdb
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\HDFaceBasics-WPF.exe
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\Microsoft.Kinect.dll
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\Microsoft.Kinect.Face.dll
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\Voice.exe
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\HDFaceBasics-WPF.pdb
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\Microsoft.Kinect.xml
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\Microsoft.Kinect.Face.xml
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\bin\Debug\Voice.pdb
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy.csprojResolveAssemblyReference.cache
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\GuideQuestion.baml
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\MainGuide.baml
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\MainWindow.baml
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\Question1.baml
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\Question2.baml
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\Video.baml
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\GuideQuestion.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\MainGuide.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\MainWindow.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\Question1.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\Question2.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\Video.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\App.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy_MarkupCompile.cache
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy.g.resources
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy.Properties.Resources.resources
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy.csproj.GenerateResource.Cache
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy.exe
+F:\ad\Visual Studio 2012\Projects\Application\情绪学习程序\EmotionStudy\obj\Debug\EmotionStudy.pdb

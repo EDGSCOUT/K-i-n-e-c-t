@@ -1,0 +1,960 @@
+﻿<UserControl x:Class="BDI.BDI"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d"
+             >
+    <Grid>
+        <Canvas HorizontalAlignment="Center" Width="764" Height="125" VerticalAlignment="Top" Margin="0,0,28,0">
+            <Grid Height="123" Canvas.Top="2" Width="764">
+
+                <Grid.Resources>
+                    <Style
+        				TargetType="{x:Type TextBlock}">
+                        <Setter
+        					Property="FontSize" Value="30"/>
+                        <Setter
+        					Property="VerticalAlignment" Value="Center"/>
+                    </Style>
+                    <Style
+        				TargetType="{x:Type Border}">
+                        <Setter
+        					Property="BorderBrush" Value="LightGray"/>
+                        <Setter
+        					Property="BorderThickness" Value="1"/>
+                    </Style>
+                </Grid.Resources>
+                <Label Content="       这个问卷由21个项目组成，请仔细看每组项目，然后在每组内&#xA;选择最适合你现在情况【最近两周，包括今天】的一项描述，请先&#xD;&#xA;读完一组内的各项陈述，然后选择。&#xA;" FontSize="20" 
+        			Margin="100,21,68,8"/>
+            </Grid>
+        </Canvas>
+        <ScrollViewer Margin="0,130,10,42">
+            <Canvas Width="755" Height="4838" HorizontalAlignment="Center" VerticalAlignment="Center" Background="White" RenderTransformOrigin="0.5,0.519">
+                <Label Content="七" FontSize="20" FontWeight="Bold" Height="35" Canvas.Left="27" Canvas.Top="1282" Width="110" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                <RadioButton x:Name="rb71" Content="1.   我没有对自己感到失望" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="89" Canvas.Top="1356" Width="164" GroupName="7">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb72" Content="2.   我对自己丧失了信心" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="452" Canvas.Top="1358" Width="153" GroupName="7">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb73" Content="3.   我对自己感到失望" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="81" Canvas.Top="1410" Width="142" GroupName="7">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb74" Content="4.   我讨厌自己" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="435" Canvas.Top="1411" Width="105" GroupName="7">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="八" FontSize="20" FontWeight="Bold" Height="36" Canvas.Left="30" Canvas.Top="1486" Width="110"/>
+                <RadioButton x:Name="rb81" Content="1.   我觉得并不比别人差" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="86" Canvas.Top="1560" Width="154" GroupName="8">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb82" Content="2.   我现在比以往责备自己多些" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="497" Canvas.Top="1562" Width="189" GroupName="8">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb83" Content="3.   我在所有的时间里都责备自己的过错" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="114" Canvas.Top="1614" Width="236" GroupName="8">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb84" Content="4.   每次发生糟糕的事我都责备自己" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="506" Canvas.Top="1616" Width="209" GroupName="8">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="九" FontSize="20" FontWeight="Bold" Height="35" Canvas.Left="31" Canvas.Top="1684" Width="131"/>
+                <RadioButton x:Name="rb91" Content="1.   我没有任何自杀的想法" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="90" Canvas.Top="1758" Width="165" GroupName="9">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb92" Content="2.   我有自杀的念头但不会真去自杀" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="452" Canvas.Top="1760" Width="212" GroupName="9">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb93" Content="3.   我很想自杀" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="70" Canvas.Top="1812" Width="107" GroupName="9">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb94" Content="4.   如果我有机会我就会自杀" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="440" Canvas.Top="1813" Width="177" GroupName="9">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="十" FontSize="20" FontWeight="Bold" Height="35" Canvas.Left="30" Canvas.Top="1878" Width="105"/>
+                <RadioButton x:Name="rb101" Content="1.   我并不比以往爱哭" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="83" Canvas.Top="1952" Width="141" GroupName="10">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb102" Content="2.   我现在比以前爱哭" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="429" Canvas.Top="1954" Width="144" GroupName="10">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb103" Content="3.   我遇到一点小事就爱哭" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="92" Canvas.Top="2006" Width="165" GroupName="10">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb104" Content="4.   我喜欢哭泣，但是哭不出来" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="446" Canvas.Top="2007" Width="189" GroupName="10">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="十一" FontSize="20" FontWeight="Bold" Height="36" Canvas.Left="30" Canvas.Top="2062" Width="132"/>
+                <RadioButton x:Name="rb111" Content="1.   我并不比以往容易感到不安或紧张" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="109" Canvas.Top="2136" Width="223" GroupName="11">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb112" Content="2.   我比以往更容易感到紧张或不安" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="107" Canvas.Top="2194" Width="214" GroupName="11">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb113" Content="3.   我如此紧张或激动使我感到坐立不安" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="114" Canvas.Top="2253" Width="237" GroupName="11">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb114" Content="4.   我如此的紧张或激动以致不得不保持移动或做一些事情" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="149" Canvas.Top="2310" Width="336" GroupName="11">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="十二" FontSize="20" FontWeight="Bold" Height="36" Canvas.Left="31" Canvas.Top="2374" Width="155"/>
+                <RadioButton x:Name="rb121" Content="1.   我对他人或活动没有失去兴趣" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="101" Canvas.Top="2448" Width="202" HorizontalAlignment="Left" VerticalAlignment="Top" GroupName="12">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb122" Content="2.   我对他人或活动的兴趣比以往减少了" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="114" Canvas.Top="2506" Width="237" HorizontalAlignment="Left" VerticalAlignment="Top" GroupName="12">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb123" Content="3.   我对他人或活动丧失了大部分兴趣" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="110" Canvas.Top="2562" Width="226" GroupName="12">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb124" Content="4.   我对他人或活动毫无兴趣" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="95" Canvas.Top="2615" Width="180" GroupName="12">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="十三" FontSize="20" FontWeight="Bold" Height="35" Canvas.Left="30" Canvas.Top="2685" Width="150"/>
+                <RadioButton x:Name="rb131" Content="1.   我作决定和过去一样好" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="87" Canvas.Top="2761" Width="157" GroupName="13">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb132" Content="2.   我现在做决定没有以前果断" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="481" Canvas.Top="2763" Width="182" GroupName="13">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb133" Content="3.   我现在作决定比以前困难得多" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="100" Canvas.Top="2815" Width="194" GroupName="13">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb134" Content="4.   我无法做出任何决定" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="469" Canvas.Top="2816" Width="147" GroupName="13">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="十四" FontSize="20" FontWeight="Bold" Height="34" Canvas.Left="30" Canvas.Top="2882" Width="150"/>
+                <RadioButton x:Name="rb141" Content="1.   我感到我是有价值的" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="86" Canvas.Top="2956" Width="151" GroupName="14">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb142" Content="2.   我认为我不像以往那样有价值或有用" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="454" Canvas.Top="2958" Width="236" GroupName="14">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb143" Content="3.   我感到与他人相比更没有价值" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="104" Canvas.Top="3010" Width="199" GroupName="14">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb144" Content="4.   我感到完全没有价值" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="427" Canvas.Top="3010" Width="156" GroupName="14">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="十五" FontSize="20" FontWeight="Bold" Height="36" Canvas.Left="30" Canvas.Top="3068" Width="150"/>
+                <RadioButton x:Name="rb151" Content="1.   我的精力像往常一样好" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="91" Canvas.Top="3144" Width="167" GroupName="15">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb152" Content="2.   我的精力没有以往那样好" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="473" Canvas.Top="3146" Width="177" GroupName="15">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb153" Content="3.   我没有足够的精力来做更多的事情" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="110" Canvas.Top="3198" Width="223" GroupName="15">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb154" Content="4.   我没有足够的精力来做任何事情" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="489" Canvas.Top="3200" Width="217" GroupName="15">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="十六" FontSize="20" FontWeight="Bold" Height="34" Canvas.Left="30" Canvas.Top="3260" Width="150"/>
+                <RadioButton x:Name="rb161" Content="1.   我的睡眠没有任何改变" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="87" Canvas.Top="3336" Width="163" GroupName="16">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb162" Content="2.   我的睡眠稍微比以前多些" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="92" Canvas.Top="3398" Width="175" GroupName="16">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb163" Content="3.   我的睡眠稍微比以前少些" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="413" Canvas.Top="3398" Width="178" GroupName="16">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb164" Content="4.   我的睡眠比以前多很多" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="88" Canvas.Top="3464" Width="162" GroupName="16">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb165" Content="5.   我的睡眠比以往少很多" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="408" Canvas.Top="3464" Width="164" GroupName="16">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb166" Content="6.   我一天大部分时间都在睡觉" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="98" Canvas.Top="3526" Width="186" GroupName="16">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb167" Content="7.   我比以往早醒1～2小时，且不能再入睡" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="440" Canvas.Top="3527" Width="253" GroupName="16">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="十七" FontSize="20" FontWeight="Bold" Height="34" Canvas.Left="30" Canvas.Top="3605" Width="150"/>
+                <RadioButton x:Name="rb171" Content="1.   和过去相比，我现在生气并不多" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="106" Canvas.Top="3680" Width="212" GroupName="17">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb172" Content="2.   我现在比往常更容易生气发火" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="460" Canvas.Top="3681" Width="201" HorizontalAlignment="Left" VerticalAlignment="Top" GroupName="17">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb173" Content="3.   我觉得现在很多时间都容易生气" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="105" Canvas.Top="3733" Width="213" GroupName="17">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb174" Content="4.   我时刻容易发火" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="436" Canvas.Top="3733" Width="128" GroupName="17">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="十八" FontSize="20" FontWeight="Bold" Height="34" Canvas.Left="30" Canvas.Top="3800" Width="150"/>
+                <RadioButton x:Name="rb181" Content="1.   我的胃口没有任何改变" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="92" Canvas.Top="3874" Width="171" GroupName="18">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb182" Content="2.   我的胃口稍微比以前小些" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="93" Canvas.Top="3946" Width="179" GroupName="18">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb183" Content="3.   我的胃口稍微比以前大些" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="434" Canvas.Top="3944" Width="177" GroupName="18">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb184" Content="4.   我的胃口比以前小很多" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="89" Canvas.Top="4012" Width="165" GroupName="18">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb185" Content="5.   我的胃口比以往大很多" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="430" Canvas.Top="4012" Width="165" GroupName="18">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb186" Content="6.   我根本没有胃口" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="79" Canvas.Top="4084" Width="134" GroupName="18">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb187" Content="7.   我时刻渴望吃东西" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="422" Canvas.Top="4082" Width="143" GroupName="18">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="十九" FontSize="20" FontWeight="Bold" Height="34" Canvas.Left="28" Canvas.Top="4154" Width="215"/>
+                <RadioButton x:Name="rb191" Content="1.   我的注意力像往常一样好" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="96" Canvas.Top="4228" Width="183" GroupName="19">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb192" Content="2.   我不能像往常一样集中精神" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="478" Canvas.Top="4230" Width="189" GroupName="19">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb193" Content="3.   我长时间想任何事情是非常困难的" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="109" Canvas.Top="4282" Width="225" GroupName="19">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb194" Content="4.   我发现我不能集中精神想任何事情" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="489" Canvas.Top="4282" Width="221" GroupName="19">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="二十" FontSize="20" FontWeight="Bold" Height="34" Canvas.Left="31" Canvas.Top="4344" Width="215"/>
+                <RadioButton x:Name="rb201" Content="1.   我并不比以往容易疲倦或疲劳" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="102" Canvas.Top="4418" Width="199" GroupName="20">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb202" Content="2.   我比以往更容易觉得疲倦或疲劳" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="106" Canvas.Top="4476" Width="213" GroupName="20">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb203" Content="3.   我太疲倦或疲劳而不能做以往的许多事情" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="123" Canvas.Top="4527" Width="262" GroupName="20">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb204" Content="4.   我太疲倦或疲劳而不能做以往的大多数事情" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="128" Canvas.Top="4578" Width="275" GroupName="20">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="二十一" FontSize="20" FontWeight="Bold" Height="34" Canvas.Left="31" Canvas.Top="4640" Width="177"/>
+                <RadioButton x:Name="rb211" Content="1.   我的性欲最近没有什么变化" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="106" Canvas.Top="4715" Width="212" GroupName="21">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb212" Content="2.   我的性欲比以往差些" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="445" Canvas.Top="4716" Width="152" GroupName="21">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb213" Content="3.   我的性欲比以往减退了许多" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="99" Canvas.Top="4768" Width="190" GroupName="21">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb214" Content="4.   我完全丧失了性欲" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="441" Canvas.Top="4768" Width="142" GroupName="21">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="六" FontSize="20" FontWeight="Bold" Height="35" Canvas.Left="30" Canvas.Top="1077" Width="110" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                <RadioButton x:Name="rb61" Content="1.   我没有觉得正在受惩罚" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="92" Canvas.Top="1151" Width="171" GroupName="6">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb62" Content="2.   我觉得我可能受惩罚" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="454" Canvas.Top="1153" Width="155" GroupName="6">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb63" Content="3.   我预感会受到惩罚" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="81" Canvas.Top="1205" Width="141" GroupName="6">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb64" Content="4.   我觉得我正在受惩罚" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="453" Canvas.Top="1206" Width="153" GroupName="6">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="五" FontSize="20" FontWeight="Bold" Height="35" Canvas.Left="32" Canvas.Top="888" Width="110" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                <RadioButton x:Name="rb51" Content="1.   我没有特别感到内疚" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="88" Canvas.Top="962" Width="156" GroupName="5">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb52" Content="2.   我对以前做的事情感到内疚" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="480" Canvas.Top="964" Width="189" GroupName="5">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb53" Content="3.   在相当一部分时间内，我感到内疚" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="110" Canvas.Top="1016" Width="224" GroupName="5">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb54" Content="4.   我时刻感到内疚" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="460" Canvas.Top="1017" Width="128" GroupName="5">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="四" FontSize="20" FontWeight="Bold" Height="35" Canvas.Left="32" Canvas.Top="579" Width="154" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                <RadioButton x:Name="rb41" Content="1.   我和以前一样，从各种事件中得到满足" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="119" Canvas.Top="653" Width="249" GroupName="4">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb42" Content="2.   我不象往常一样从各种事件中得到满足" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="119" Canvas.Top="712" Width="248" GroupName="4">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb43" Content="3.   我不再能从各种事件中得到真正的满足" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="120" Canvas.Top="770" Width="249" GroupName="4">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb44" Content="4.   我对所有的事情都不满意" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="96" Canvas.Top="822" Width="179" GroupName="4">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="三" FontSize="20" FontWeight="Bold" Height="35" Canvas.Left="30" Canvas.Top="389" Width="110" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                <RadioButton x:Name="rb31" Content="1.   我没有感到失败" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="76" Canvas.Top="463" Width="128" GroupName="3">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb32" Content="2.   我觉得和大多数人相比我是失败的" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="479" Canvas.Top="465" Width="226" GroupName="3">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb33" Content="3.   当回首过去我看到的是许多失败" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="106" Canvas.Top="517" Width="212" GroupName="3">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb34" Content="4.   我感到我是个彻底失败的人" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="465" Canvas.Top="518" Width="187" GroupName="3">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="二" FontSize="20" FontWeight="Bold" Height="35" Canvas.Left="30" Canvas.Top="205" Width="110" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                <RadioButton x:Name="rb21" Content="1.   我对未来并不失望" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="81" Canvas.Top="279" Width="142" GroupName="2">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb22" Content="2.   对未来我感到心灰意冷" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="457" Canvas.Top="281" Width="165" GroupName="2">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb23" Content="3.   我感到前景暗淡" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="78" Canvas.Top="333" Width="130" GroupName="2">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb24" Content="4.   我觉得将来毫无希望，无法改善" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="473" Canvas.Top="334" Width="213" GroupName="2">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="一" FontSize="20" FontWeight="Bold" Height="35" Canvas.Left="33" Canvas.Top="15" Width="110" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                <RadioButton x:Name="rb11" Content="1.   我不感到悲伤" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="76" Canvas.Top="89" Width="120" GroupName="1">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb12" Content="2.   我许多时间感到悲伤" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="410" Canvas.Top="91" Width="155" GroupName="1">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb13" Content="3.   我始终感到悲伤，不能自制" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="103" Canvas.Top="143" Width="193" GroupName="1">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="rb14" Content="4.   我非常忧伤或不愉快，以致我不能忍受它" RenderTransformOrigin="0.5,0.5" Height="14" Canvas.Left="448" Canvas.Top="144" Width="260" GroupName="1">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+            </Canvas>
+        </ScrollViewer>
+
+        <Button x:Name="Submit" Content="提交" Margin="356,0,356,4" VerticalAlignment="Bottom" Height="35" Click="button_Click" HorizontalAlignment="Center" Width="80" FontSize="20"/>
+    </Grid>
+</UserControl>

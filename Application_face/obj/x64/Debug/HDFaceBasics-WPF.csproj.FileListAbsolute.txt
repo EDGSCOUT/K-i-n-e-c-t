@@ -1,0 +1,235 @@
+D:\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+D:\HDFaceBasics-WPF - 副本\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+D:\HDFaceBasics-WPF - 副本\bin\x64\Debug\HDFaceBasics-WPF.exe
+D:\HDFaceBasics-WPF - 副本\bin\x64\Debug\HDFaceBasics-WPF.pdb
+D:\HDFaceBasics-WPF - 副本\bin\x64\Debug\Microsoft.Kinect.Face.dll
+D:\HDFaceBasics-WPF - 副本\bin\x64\Debug\Microsoft.Kinect.Face.xml
+D:\HDFaceBasics-WPF - 副本\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+D:\HDFaceBasics-WPF - 副本\obj\x64\Debug\MainWindow.baml
+D:\HDFaceBasics-WPF - 副本\obj\x64\Debug\MainWindow.g.cs
+D:\HDFaceBasics-WPF - 副本\obj\x64\Debug\App.g.cs
+D:\HDFaceBasics-WPF - 副本\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+D:\HDFaceBasics-WPF - 副本\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+D:\HDFaceBasics-WPF - 副本\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+D:\HDFaceBasics-WPF - 副本\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+D:\HDFaceBasics-WPF - 副本\obj\x64\Debug\HDFaceBasics-WPF.exe
+D:\HDFaceBasics-WPF - 副本\obj\x64\Debug\HDFaceBasics-WPF.pdb
+D:\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+D:\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.exe
+D:\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.pdb
+D:\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.exe
+D:\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.pdb
+D:\MyHDface\bin\x64\Debug\Microsoft.Kinect.Face.dll
+D:\MyHDface\bin\x64\Debug\Microsoft.Kinect.Face.xml
+D:\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+D:\MyHDface\obj\x64\Debug\MainWindow.baml
+D:\MyHDface\obj\x64\Debug\MainWindow.g.cs
+D:\MyHDface\obj\x64\Debug\App.g.cs
+D:\MyHDface\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+D:\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+D:\MyHDface\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+D:\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+D:\lishun\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+D:\lishun\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.exe
+D:\lishun\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.pdb
+D:\lishun\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.exe
+D:\lishun\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.pdb
+D:\lishun\MyHDface\bin\x64\Debug\Microsoft.Kinect.Face.dll
+D:\lishun\MyHDface\bin\x64\Debug\Microsoft.Kinect.Face.xml
+D:\lishun\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+D:\lishun\MyHDface\obj\x64\Debug\MainWindow.baml
+D:\lishun\MyHDface\obj\x64\Debug\MainWindow.g.cs
+D:\lishun\MyHDface\obj\x64\Debug\App.g.cs
+D:\lishun\MyHDface\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+D:\lishun\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+D:\lishun\MyHDface\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+D:\lishun\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+D:\Kinect软件\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+D:\Kinect软件\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.exe
+D:\Kinect软件\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Desktop\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+C:\Users\ad\Desktop\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Desktop\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Desktop\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Desktop\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Desktop\MyHDface\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\ad\Desktop\MyHDface\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\ad\Desktop\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\ad\Desktop\MyHDface\obj\x64\Debug\MainWindow.baml
+C:\Users\ad\Desktop\MyHDface\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ad\Desktop\MyHDface\obj\x64\Debug\App.g.cs
+C:\Users\ad\Desktop\MyHDface\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+C:\Users\ad\Desktop\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+C:\Users\ad\Desktop\MyHDface\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Users\ad\Desktop\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\zhangzhan\Desktop\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+C:\Users\zhangzhan\Desktop\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\zhangzhan\Desktop\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\zhangzhan\Desktop\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\zhangzhan\Desktop\MyHDface\obj\x64\Debug\MainWindow.baml
+C:\Users\zhangzhan\Desktop\MyHDface\obj\x64\Debug\MainWindow.g.cs
+C:\Users\zhangzhan\Desktop\MyHDface\obj\x64\Debug\App.g.cs
+C:\Users\zhangzhan\Desktop\MyHDface\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+C:\Users\zhangzhan\Desktop\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+C:\Users\zhangzhan\Desktop\MyHDface\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Users\zhangzhan\Desktop\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\zhangzhan\Desktop\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\zhangzhan\Desktop\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\zhangzhan\Desktop\MyHDface\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\zhangzhan\Desktop\MyHDface\bin\x64\Debug\Microsoft.Kinect.Face.xml
+F:\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+F:\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.exe
+F:\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.pdb
+F:\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.exe
+F:\MyHDface\bin\x64\Debug\HDFaceBasics-WPF.pdb
+F:\MyHDface\bin\x64\Debug\Microsoft.Kinect.Face.dll
+F:\MyHDface\bin\x64\Debug\Microsoft.Kinect.Face.xml
+F:\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+F:\MyHDface\obj\x64\Debug\MainWindow.baml
+F:\MyHDface\obj\x64\Debug\MainWindow.g.cs
+F:\MyHDface\obj\x64\Debug\App.g.cs
+F:\MyHDface\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+F:\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+F:\MyHDface\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+F:\MyHDface\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+F:\MyHDface正式\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+F:\MyHDface正式\obj\x64\Debug\HDFaceBasics-WPF.exe
+F:\MyHDface正式\obj\x64\Debug\HDFaceBasics-WPF.pdb
+F:\KINECT面部录像\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+F:\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF.exe
+F:\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF.pdb
+F:\KINECT面部录像\bin\x64\Debug\HDFaceBasics-WPF.exe
+F:\KINECT面部录像\bin\x64\Debug\HDFaceBasics-WPF.pdb
+F:\KINECT面部录像\bin\x64\Debug\Microsoft.Kinect.Face.dll
+F:\KINECT面部录像\bin\x64\Debug\Microsoft.Kinect.Face.xml
+F:\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+F:\KINECT面部录像\obj\x64\Debug\MainWindow.baml
+F:\KINECT面部录像\obj\x64\Debug\MainWindow.g.cs
+F:\KINECT面部录像\obj\x64\Debug\App.g.cs
+F:\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+F:\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+F:\KINECT面部录像\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+F:\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\ad\Desktop\新建文件夹\KINECT面部录像\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+C:\Users\ad\Desktop\新建文件夹\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Desktop\新建文件夹\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\bin\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\bin\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\obj\x64\Debug\MainWindow.baml
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\obj\x64\Debug\App.g.cs
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Users\ad\Desktop\正式程序\KINECT面部录像\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\bin\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\bin\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\obj\x64\Debug\MainWindow.baml
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\obj\x64\Debug\App.g.cs
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\ad\Desktop\一段视频面部录像\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+C:\Users\ad\Desktop\一段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Desktop\一段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Desktop\一段视频面部录像\bin\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Desktop\一段视频面部录像\bin\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Desktop\一段视频面部录像\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\ad\Desktop\一段视频面部录像\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\ad\Desktop\一段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\ad\Desktop\一段视频面部录像\obj\x64\Debug\MainWindow.baml
+C:\Users\ad\Desktop\一段视频面部录像\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ad\Desktop\一段视频面部录像\obj\x64\Debug\App.g.cs
+C:\Users\ad\Desktop\一段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+C:\Users\ad\Desktop\一段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+C:\Users\ad\Desktop\一段视频面部录像\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Users\ad\Desktop\一段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+E:\实验\重录程序\一段视频面部录像\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+E:\实验\重录程序\一段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF.exe
+E:\实验\重录程序\一段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF.pdb
+E:\实验\重录程序\一段视频面部录像\bin\x64\Debug\HDFaceBasics-WPF.exe
+E:\实验\重录程序\一段视频面部录像\bin\x64\Debug\HDFaceBasics-WPF.pdb
+E:\实验\重录程序\一段视频面部录像\bin\x64\Debug\Microsoft.Kinect.Face.dll
+E:\实验\重录程序\一段视频面部录像\bin\x64\Debug\Microsoft.Kinect.Face.xml
+E:\实验\重录程序\一段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+E:\实验\重录程序\一段视频面部录像\obj\x64\Debug\MainWindow.baml
+E:\实验\重录程序\一段视频面部录像\obj\x64\Debug\MainWindow.g.cs
+E:\实验\重录程序\一段视频面部录像\obj\x64\Debug\App.g.cs
+E:\实验\重录程序\一段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+E:\实验\重录程序\一段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+E:\实验\重录程序\一段视频面部录像\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+E:\实验\重录程序\一段视频面部录像\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\ad\Desktop\程序\面部录像\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+C:\Users\ad\Desktop\程序\面部录像\obj\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Desktop\程序\面部录像\obj\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Desktop\程序\面部录像\bin\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Desktop\程序\面部录像\bin\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Desktop\程序\面部录像\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\ad\Desktop\程序\面部录像\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\ad\Desktop\程序\面部录像\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\ad\Desktop\程序\面部录像\obj\x64\Debug\MainWindow.baml
+C:\Users\ad\Desktop\程序\面部录像\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ad\Desktop\程序\面部录像\obj\x64\Debug\App.g.cs
+C:\Users\ad\Desktop\程序\面部录像\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+C:\Users\ad\Desktop\程序\面部录像\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+C:\Users\ad\Desktop\程序\面部录像\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Users\ad\Desktop\程序\面部录像\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\ad\Desktop\kinect录像录音程序\一段面部录像\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+C:\Users\ad\Desktop\kinect录像录音程序\一段面部录像\obj\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Desktop\kinect录像录音程序\一段面部录像\obj\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Desktop\kinect录像录音程序\一段面部录像\bin\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Desktop\kinect录像录音程序\一段面部录像\bin\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Desktop\kinect录像录音程序\一段面部录像\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\ad\Desktop\kinect录像录音程序\一段面部录像\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\ad\Desktop\kinect录像录音程序\一段面部录像\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\ad\Desktop\kinect录像录音程序\一段面部录像\obj\x64\Debug\MainWindow.baml
+C:\Users\ad\Desktop\kinect录像录音程序\一段面部录像\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ad\Desktop\kinect录像录音程序\一段面部录像\obj\x64\Debug\App.g.cs
+C:\Users\ad\Desktop\kinect录像录音程序\一段面部录像\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+C:\Users\ad\Desktop\kinect录像录音程序\一段面部录像\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+C:\Users\ad\Desktop\kinect录像录音程序\一段面部录像\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Users\ad\Desktop\kinect录像录音程序\一段面部录像\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application_face\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application_face\obj\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application_face\obj\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application_face\bin\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application_face\bin\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application_face\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application_face\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application_face\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application_face\obj\x64\Debug\MainWindow.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application_face\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application_face\obj\x64\Debug\App.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application_face\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application_face\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application_face\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application_face\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+F:\ad\Visual Studio 2012\Projects\Application_face\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+F:\ad\Visual Studio 2012\Projects\Application_face\obj\x64\Debug\HDFaceBasics-WPF.exe
+F:\ad\Visual Studio 2012\Projects\Application_face\obj\x64\Debug\HDFaceBasics-WPF.pdb
+F:\ad\Visual Studio 2012\Projects\Application_face\bin\x64\Debug\HDFaceBasics-WPF.exe
+F:\ad\Visual Studio 2012\Projects\Application_face\bin\x64\Debug\HDFaceBasics-WPF.pdb
+F:\ad\Visual Studio 2012\Projects\Application_face\bin\x64\Debug\Microsoft.Kinect.Face.dll
+F:\ad\Visual Studio 2012\Projects\Application_face\bin\x64\Debug\Microsoft.Kinect.Face.xml
+F:\ad\Visual Studio 2012\Projects\Application_face\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+F:\ad\Visual Studio 2012\Projects\Application_face\obj\x64\Debug\MainWindow.baml
+F:\ad\Visual Studio 2012\Projects\Application_face\obj\x64\Debug\MainWindow.g.cs
+F:\ad\Visual Studio 2012\Projects\Application_face\obj\x64\Debug\App.g.cs
+F:\ad\Visual Studio 2012\Projects\Application_face\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+F:\ad\Visual Studio 2012\Projects\Application_face\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+F:\ad\Visual Studio 2012\Projects\Application_face\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+F:\ad\Visual Studio 2012\Projects\Application_face\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache

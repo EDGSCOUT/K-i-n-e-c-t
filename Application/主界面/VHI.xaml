@@ -1,0 +1,549 @@
+﻿<UserControl x:Class="VHI.VHI"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d"
+             >
+    <Grid>
+        <Canvas HorizontalAlignment="Center" Width="764" Height="125" VerticalAlignment="Top" Margin="0,0,28,0">
+            <Grid Height="123" Canvas.Top="2" Width="764">
+
+                <Grid.Resources>
+                    <Style
+        				TargetType="{x:Type TextBlock}">
+                        <Setter
+        					Property="FontSize" Value="30"/>
+                        <Setter
+        					Property="VerticalAlignment" Value="Center"/>
+                    </Style>
+                    <Style
+        				TargetType="{x:Type Border}">
+                        <Setter
+        					Property="BorderBrush" Value="LightGray"/>
+                        <Setter
+        					Property="BorderThickness" Value="1"/>
+                    </Style>
+                </Grid.Resources>
+                <Label Content="为评估发声问题对您生活的影响程度，请选择符合自己情况的选项。" FontSize="20" 
+        			Margin="98,42,54,37"/>
+            </Grid>
+        </Canvas>
+        <ScrollViewer Margin="0,130,10,42">
+            <Canvas Height="1416" Width="760">
+                <Label Content="1.在嘈杂环境中别人难以听明白我说的话。" Canvas.Left="128" Canvas.Top="10" FontSize="20"/>
+                <RadioButton x:Name="r11" Content="无" Canvas.Left="140" Canvas.Top="80" RenderTransformOrigin="0.5,0.5" GroupName="g1">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r12" Content="很少" Canvas.Left="255" Canvas.Top="80" RenderTransformOrigin="0.5,0.5" GroupName="g1">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r13" Content="有时" Canvas.Left="370" Canvas.Top="80" RenderTransformOrigin="0.5,0.5" GroupName="g1">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r14" Content="经常" Canvas.Left="485" Canvas.Top="80" RenderTransformOrigin="0.5,0.5" GroupName="g1">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r15" Content="总是" Canvas.Left="600" Canvas.Top="80" RenderTransformOrigin="0.5,0.5" GroupName="g1">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="2.我感到在交谈上话跟不上。" Canvas.Left="128" Canvas.Top="150" FontSize="20"/>
+                <RadioButton x:Name="r21" Content="无" Canvas.Left="140" Canvas.Top="220" RenderTransformOrigin="0.5,0.5" GroupName="g2">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r22" Content="很少" Canvas.Left="255" Canvas.Top="220" RenderTransformOrigin="0.5,0.5" GroupName="g2">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r23" Content="有时" Canvas.Left="370" Canvas.Top="220" RenderTransformOrigin="0.5,0.5" GroupName="g2">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r24" Content="经常" Canvas.Left="485" Canvas.Top="220" RenderTransformOrigin="0.5,0.5" GroupName="g2">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r25" Content="总是" Canvas.Left="600" Canvas.Top="220" RenderTransformOrigin="0.5,0.5" GroupName="g2">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="3.说话时我会感觉气短。" Canvas.Left="128" Canvas.Top="290" FontSize="20"/>
+                <RadioButton x:Name="r31" Content="无" Canvas.Left="140" Canvas.Top="360" RenderTransformOrigin="0.5,0.5" GroupName="g3">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r32" Content="很少" Canvas.Left="255" Canvas.Top="360" RenderTransformOrigin="0.5,0.5" GroupName="g3">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r33" Content="有时" Canvas.Left="370" Canvas.Top="360" RenderTransformOrigin="0.5,0.5" GroupName="g3">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r34" Content="经常" Canvas.Left="485" Canvas.Top="360" RenderTransformOrigin="0.5,0.5" GroupName="g3">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r35" Content="总是" Canvas.Left="600" Canvas.Top="360" RenderTransformOrigin="0.5,0.5" GroupName="g3">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="4.一天之中我的嗓音听起来不稳定，会有变化。" Canvas.Left="128" Canvas.Top="430" FontSize="20"/>
+                <RadioButton x:Name="r41" Content="无" Canvas.Left="140" Canvas.Top="500" RenderTransformOrigin="0.5,0.5" GroupName="g4">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r42" Content="很少" Canvas.Left="255" Canvas.Top="500" RenderTransformOrigin="0.5,0.5" GroupName="g4">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r43" Content="有时" Canvas.Left="370" Canvas.Top="500" RenderTransformOrigin="0.5,0.5" GroupName="g4">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r44" Content="经常" Canvas.Left="485" Canvas.Top="500" RenderTransformOrigin="0.5,0.5" GroupName="g4">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r45" Content="总是" Canvas.Left="600" Canvas.Top="500" RenderTransformOrigin="0.5,0.5" GroupName="g4">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="5.人们会问我:你的声音出了什么问题？" Canvas.Left="128" Canvas.Top="570" FontSize="20"/>
+                <RadioButton x:Name="r51" Content="无" Canvas.Left="140" Canvas.Top="640" RenderTransformOrigin="0.5,0.5" GroupName="g5">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r52" Content="很少" Canvas.Left="255" Canvas.Top="640" RenderTransformOrigin="0.5,0.5" GroupName="g5">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r53" Content="有时" Canvas.Left="370" Canvas.Top="640" RenderTransformOrigin="0.5,0.5" GroupName="g5">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r54" Content="经常" Canvas.Left="485" Canvas.Top="640" RenderTransformOrigin="0.5,0.5" GroupName="g5">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r55" Content="总是" Canvas.Left="600" Canvas.Top="640" RenderTransformOrigin="0.5,0.5" GroupName="g5">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="6.我声音的清晰度变化无常。" Canvas.Left="127" Canvas.Top="707" FontSize="20"/>
+                <RadioButton x:Name="r61" Content="无" Canvas.Left="139" Canvas.Top="777" RenderTransformOrigin="0.5,0.5" GroupName="g6">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r62" Content="很少" Canvas.Left="254" Canvas.Top="777" RenderTransformOrigin="0.5,0.5" GroupName="g6">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r63" Content="有时" Canvas.Left="369" Canvas.Top="777" RenderTransformOrigin="0.5,0.5" GroupName="g6">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r64" Content="经常" Canvas.Left="484" Canvas.Top="777" RenderTransformOrigin="0.5,0.5" GroupName="g6">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r65" Content="总是" Canvas.Left="599" Canvas.Top="777" RenderTransformOrigin="0.5,0.5" GroupName="g6">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="7.我感到苦恼。" Canvas.Left="127" Canvas.Top="847" FontSize="20"/>
+                <RadioButton x:Name="r71" Content="无" Canvas.Left="139" Canvas.Top="917" RenderTransformOrigin="0.5,0.5" GroupName="g7">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r72" Content="很少" Canvas.Left="254" Canvas.Top="917" RenderTransformOrigin="0.5,0.5" GroupName="g7">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r73" Content="有时" Canvas.Left="369" Canvas.Top="917" RenderTransformOrigin="0.5,0.5" GroupName="g7">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r74" Content="经常" Canvas.Left="484" Canvas.Top="917" RenderTransformOrigin="0.5,0.5" GroupName="g7">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r75" Content="总是" Canvas.Left="599" Canvas.Top="917" RenderTransformOrigin="0.5,0.5" GroupName="g7">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="8.我减少与朋友、邻居或亲人说话。" Canvas.Left="127" Canvas.Top="987" FontSize="20"/>
+                <RadioButton x:Name="r81" Content="无" Canvas.Left="139" Canvas.Top="1057" RenderTransformOrigin="0.5,0.5" GroupName="g8">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r82" Content="很少" Canvas.Left="254" Canvas.Top="1057" RenderTransformOrigin="0.5,0.5" GroupName="g8">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r83" Content="有时" Canvas.Left="369" Canvas.Top="1057" RenderTransformOrigin="0.5,0.5" GroupName="g8">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r84" Content="经常" Canvas.Left="484" Canvas.Top="1057" RenderTransformOrigin="0.5,0.5" GroupName="g8">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r85" Content="总是" Canvas.Left="599" Canvas.Top="1057" RenderTransformOrigin="0.5,0.5" GroupName="g8">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="9.我说话会出现失声的情况。" Canvas.Left="127" Canvas.Top="1127" FontSize="20"/>
+                <RadioButton x:Name="r91" Content="无" Canvas.Left="139" Canvas.Top="1197" RenderTransformOrigin="0.5,0.5" GroupName="g9">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r92" Content="很少" Canvas.Left="254" Canvas.Top="1197" RenderTransformOrigin="0.5,0.5" GroupName="g9">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r93" Content="有时" Canvas.Left="369" Canvas.Top="1197" RenderTransformOrigin="0.5,0.5" GroupName="g9">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r94" Content="经常" Canvas.Left="484" Canvas.Top="1197" RenderTransformOrigin="0.5,0.5" GroupName="g9">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r95" Content="总是" Canvas.Left="599" Canvas.Top="1197" RenderTransformOrigin="0.5,0.5" GroupName="g9">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <Label Content="10.别人听到我的声音会觉得难受。" Canvas.Left="127" Canvas.Top="1267" FontSize="20"/>
+                <RadioButton x:Name="r101" Content="无" Canvas.Left="139" Canvas.Top="1337" RenderTransformOrigin="0.5,0.5" GroupName="g10">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r102" Content="很少" Canvas.Left="254" Canvas.Top="1337" RenderTransformOrigin="0.5,0.5" GroupName="g10">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r103" Content="有时" Canvas.Left="369" Canvas.Top="1337" RenderTransformOrigin="0.5,0.5" GroupName="g10">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r104" Content="经常" Canvas.Left="484" Canvas.Top="1337" RenderTransformOrigin="0.5,0.5" GroupName="g10">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="r105" Content="总是" Canvas.Left="599" Canvas.Top="1337" RenderTransformOrigin="0.5,0.5" GroupName="g10">
+                    <RadioButton.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+            </Canvas>
+        </ScrollViewer>
+
+        <Button x:Name="Submit" Content="提交" Margin="356,0,356,4" VerticalAlignment="Bottom" Height="35" Click="button_Click" HorizontalAlignment="Center" Width="80" FontSize="20"/>
+    </Grid>
+</UserControl>

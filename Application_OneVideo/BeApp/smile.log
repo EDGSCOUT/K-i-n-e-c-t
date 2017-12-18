@@ -1,0 +1,429 @@
+[ 28.09.2016 - 19:31:01 ]
+    (MSG) [2] in SMILExtract : openSMILE starting!
+[ 28.09.2016 - 19:31:01 ]
+    (MSG) [2] in SMILExtract : config file is: extract_functional_features.conf
+[ 28.09.2016 - 19:31:01 ]
+    (MSG) [2] in cComponentManager : successfully registered 95 component types.
+[ 28.09.2016 - 19:31:01 ]
+    (ERROR) [1] in instance 'formant' : lpGain not found as input field, cannot compute formant frame intensity, disabling it now!
+[ 28.09.2016 - 19:31:01 ]
+    (WARN) [2] in instance 'formantsmo' : Requested input field matching pattern '*F0final*' not found, check your config! Defaulting to use first field. Available fields:
+  Field name & dimension:
+    formantFreqLpc 3
+    formantBandwidthLpc 3
+==> LEVEL 'wave'  +++  Buffersize(frames) = 220500  +++  nReaders = 2
+     Period(in seconds) = 0.000023 	 frameSize(in seconds) = 0.000023 (last: 0.000000)
+     BlocksizeRead(frames) = 132300 	 BlocksizeWrite(frames) = 44100
+     Number of elements: 1 	 Number of fields: 1
+     type = float   noHang = 1   isRingbuffer(isRb) = 1   growDyn = 0
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0.       : pcm
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+==> LEVEL 'outp'  +++  Buffersize(frames) = 3  +++  nReaders = 4
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.025000 (last: 0.000000)
+     BlocksizeRead(frames) = 1 	 BlocksizeWrite(frames) = 1
+     Number of elements: 1103 	 Number of fields: 1
+     type = float   noHang = 1   isRingbuffer(isRb) = 1   growDyn = 0
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0. - 1102. : pcm[0-1102]  (1103)
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+==> LEVEL 'intens'  +++  Buffersize(frames) = 3  +++  nReaders = 0
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.025000 (last: 0.000000)
+     BlocksizeRead(frames) = 0 	 BlocksizeWrite(frames) = 1
+     Number of elements: 1 	 Number of fields: 1
+     type = float   noHang = 1   isRingbuffer(isRb) = 1   growDyn = 0
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0.       : pcm_loudness
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+[ 28.09.2016 - 19:31:01 ]
+    (WARN) [1] in dataMemory :    Level 'intens' might be a DEAD-END (nReaders <= 0!)
+==> LEVEL 'win'  +++  Buffersize(frames) = 3  +++  nReaders = 1
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.025000 (last: 0.000000)
+     BlocksizeRead(frames) = 1 	 BlocksizeWrite(frames) = 1
+     Number of elements: 1103 	 Number of fields: 1
+     type = float   noHang = 1   isRingbuffer(isRb) = 1   growDyn = 0
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0. - 1102. : pcm[0-1102]  (1103)
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+==> LEVEL 'fftc'  +++  Buffersize(frames) = 3  +++  nReaders = 1
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.046419 (last: 0.025000)
+     BlocksizeRead(frames) = 1 	 BlocksizeWrite(frames) = 1
+     Number of elements: 2048 	 Number of fields: 1
+     type = float   noHang = 1   isRingbuffer(isRb) = 1   growDyn = 0
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0. - 2047. : pcm[0-2047]  (2048)
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+        0. - 2047. : infoSize = 8200 (dt = 513)
+==> LEVEL 'fftmag'  +++  Buffersize(frames) = 3  +++  nReaders = 5
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.046419 (last: 0.025000)
+     BlocksizeRead(frames) = 1 	 BlocksizeWrite(frames) = 1
+     Number of elements: 1025 	 Number of fields: 1
+     type = float   noHang = 1   isRingbuffer(isRb) = 1   growDyn = 0
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0. - 1024. : pcm_fftMag[0-1024]  (1025)
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+        0. - 1024. : infoSize = 8200 (dt = 514)
+==> LEVEL 'acf'  +++  Buffersize(frames) = 3  +++  nReaders = 2
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.046419 (last: 0.025000)
+     BlocksizeRead(frames) = 1 	 BlocksizeWrite(frames) = 1
+     Number of elements: 1024 	 Number of fields: 1
+     type = float   noHang = 1   isRingbuffer(isRb) = 1   growDyn = 0
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0. - 1023. : pcm_fftMag_acf[0-1023]  (1024)
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+==> LEVEL 'cepstrum'  +++  Buffersize(frames) = 3  +++  nReaders = 2
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.046419 (last: 0.025000)
+     BlocksizeRead(frames) = 1 	 BlocksizeWrite(frames) = 1
+     Number of elements: 1024 	 Number of fields: 1
+     type = float   noHang = 1   isRingbuffer(isRb) = 1   growDyn = 0
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0. - 1023. : pcm_fftMag_acf[0-1023]  (1024)
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+==> LEVEL 'pitch'  +++  Buffersize(frames) = 3  +++  nReaders = 1
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.046419 (last: 0.025000)
+     BlocksizeRead(frames) = 1 	 BlocksizeWrite(frames) = 1
+     Number of elements: 1 	 Number of fields: 1
+     type = float   noHang = 1   isRingbuffer(isRb) = 1   growDyn = 0
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0.       : F0
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+==> LEVEL 'pitch2'  +++  Buffersize(frames) = 3  +++  nReaders = 1
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.046419 (last: 0.025000)
+     BlocksizeRead(frames) = 1 	 BlocksizeWrite(frames) = 1
+     Number of elements: 1 	 Number of fields: 1
+     type = float   noHang = 1   isRingbuffer(isRb) = 1   growDyn = 0
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0.       : F0
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+==> LEVEL 'jitterShimmer'  +++  Buffersize(frames) = 100  +++  nReaders = 1
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.046419 (last: 0.046419)
+     BlocksizeRead(frames) = 1 	 BlocksizeWrite(frames) = 1
+     Number of elements: 2 	 Number of fields: 2
+     type = float   noHang = 1   isRingbuffer(isRb) = 1   growDyn = 0
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0.       : shimmerLocal
+       1.       : logHNR
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+==> LEVEL 'pitchAnother'  +++  Buffersize(frames) = 6  +++  nReaders = 1
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.046419 (last: 0.025000)
+     BlocksizeRead(frames) = 4 	 BlocksizeWrite(frames) = 1
+     Number of elements: 1 	 Number of fields: 1
+     type = float   noHang = 1   isRingbuffer(isRb) = 1   growDyn = 0
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0.       : F0
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+==> LEVEL 'pitchsmo'  +++  Buffersize(frames) = 10000  +++  nReaders = 1
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.046419 (last: 0.025000)
+     BlocksizeRead(frames) = 1 	 BlocksizeWrite(frames) = 1
+     Number of elements: 1 	 Number of fields: 1
+     type = float   noHang = 1   isRingbuffer(isRb) = 0   growDyn = 1
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0.       : F0_sma
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+==> LEVEL 'melspec'  +++  Buffersize(frames) = 3  +++  nReaders = 1
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.046419 (last: 0.025000)
+     BlocksizeRead(frames) = 1 	 BlocksizeWrite(frames) = 1
+     Number of elements: 26 	 Number of fields: 1
+     type = float   noHang = 1   isRingbuffer(isRb) = 1   growDyn = 0
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0. - 25. : pcm_fftMag[0-25]  (26)
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+        0. - 25. : infoSize = 208 (dt = 544)
+==> LEVEL 'mfcc'  +++  Buffersize(frames) = 1000  +++  nReaders = 2
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.046419 (last: 0.025000)
+     BlocksizeRead(frames) = 6 	 BlocksizeWrite(frames) = 1
+     Number of elements: 13 	 Number of fields: 1
+     type = float   noHang = 1   isRingbuffer(isRb) = 0   growDyn = 1
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0. - 12. : pcm_fftMag_mfcc[0-12]  (13)
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+==> LEVEL 'mfccM'  +++  Buffersize(frames) = 1000  +++  nReaders = 0
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.046419 (last: 0.025000)
+     BlocksizeRead(frames) = 0 	 BlocksizeWrite(frames) = 1
+     Number of elements: 13 	 Number of fields: 1
+     type = float   noHang = 1   isRingbuffer(isRb) = 0   growDyn = 1
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0. - 12. : pcm_fftMag_mfcc[0-12]  (13)
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+[ 28.09.2016 - 19:31:01 ]
+    (WARN) [1] in dataMemory :    Level 'mfccM' might be a DEAD-END (nReaders <= 0!)
+==> LEVEL 'mfccD'  +++  Buffersize(frames) = 1000  +++  nReaders = 1
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.046419 (last: 0.025000)
+     BlocksizeRead(frames) = 6 	 BlocksizeWrite(frames) = 1
+     Number of elements: 13 	 Number of fields: 1
+     type = float   noHang = 1   isRingbuffer(isRb) = 0   growDyn = 1
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0. - 12. : pcm_fftMag_mfcc_de[0-12]  (13)
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+==> LEVEL 'mfccA'  +++  Buffersize(frames) = 1000  +++  nReaders = 0
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.046419 (last: 0.025000)
+     BlocksizeRead(frames) = 0 	 BlocksizeWrite(frames) = 1
+     Number of elements: 13 	 Number of fields: 1
+     type = float   noHang = 1   isRingbuffer(isRb) = 0   growDyn = 1
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0. - 12. : pcm_fftMag_mfcc_de_de[0-12]  (13)
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+[ 28.09.2016 - 19:31:01 ]
+    (WARN) [1] in dataMemory :    Level 'mfccA' might be a DEAD-END (nReaders <= 0!)
+==> LEVEL 'framespe'  +++  Buffersize(frames) = 3  +++  nReaders = 1
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.025000 (last: 0.000000)
+     BlocksizeRead(frames) = 1 	 BlocksizeWrite(frames) = 1
+     Number of elements: 1103 	 Number of fields: 1
+     type = float   noHang = 1   isRingbuffer(isRb) = 1   growDyn = 0
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0. - 1102. : pcm[0-1102]  (1103)
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+==> LEVEL 'lpc'  +++  Buffersize(frames) = 3  +++  nReaders = 1
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.025000 (last: 0.000000)
+     BlocksizeRead(frames) = 1 	 BlocksizeWrite(frames) = 1
+     Number of elements: 8 	 Number of fields: 1
+     type = float   noHang = 1   isRingbuffer(isRb) = 1   growDyn = 0
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0. -  7. : lpcCoeff[0-7]  (8)
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+==> LEVEL 'formant'  +++  Buffersize(frames) = 1000  +++  nReaders = 1
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.025000 (last: 0.000000)
+     BlocksizeRead(frames) = 1 	 BlocksizeWrite(frames) = 1
+     Number of elements: 6 	 Number of fields: 2
+     type = float   noHang = 1   isRingbuffer(isRb) = 1   growDyn = 0
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0. -  2. : formantFreqLpc[1-3]  (3)
+       3. -  5. : formantBandwidthLpc[1-3]  (3)
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+==> LEVEL 'hps'  +++  Buffersize(frames) = 3  +++  nReaders = 1
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.046419 (last: 0.025000)
+     BlocksizeRead(frames) = 1 	 BlocksizeWrite(frames) = 1
+     Number of elements: 1025 	 Number of fields: 1
+     type = float   noHang = 1   isRingbuffer(isRb) = 1   growDyn = 0
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0. - 1024. : pcm_fftMag_logScale[0-1024]  (1025)
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+        0. - 1024. : infoSize = 8200 (dt = 514)
+==> LEVEL 'pitchShs'  +++  Buffersize(frames) = 3  +++  nReaders = 0
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.046419 (last: 0.025000)
+     BlocksizeRead(frames) = 0 	 BlocksizeWrite(frames) = 1
+     Number of elements: 10 	 Number of fields: 4
+     type = float   noHang = 1   isRingbuffer(isRb) = 1   growDyn = 0
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0.       : nCandidates
+       1. -  3. : F0Cand[0-2]  (3)
+       4. -  6. : candVoicing[0-2]  (3)
+       7. -  9. : candScores[0-2]  (3)
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+[ 28.09.2016 - 19:31:01 ]
+    (WARN) [1] in dataMemory :    Level 'pitchShs' might be a DEAD-END (nReaders <= 0!)
+==> LEVEL 'formantsmo'  +++  Buffersize(frames) = 10000  +++  nReaders = 1
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.025000 (last: 0.000000)
+     BlocksizeRead(frames) = 1 	 BlocksizeWrite(frames) = 1
+     Number of elements: 6 	 Number of fields: 2
+     type = float   noHang = 1   isRingbuffer(isRb) = 1   growDyn = 0
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0. -  2. : formantFinalFreq[0-2]  (3)
+       3. -  5. : formantFinalBW[0-2]  (3)
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+==> LEVEL 'energy'  +++  Buffersize(frames) = 3  +++  nReaders = 1
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.025000 (last: 0.000000)
+     BlocksizeRead(frames) = 1 	 BlocksizeWrite(frames) = 1
+     Number of elements: 1 	 Number of fields: 1
+     type = float   noHang = 1   isRingbuffer(isRb) = 1   growDyn = 0
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0.       : pcm_RMSenergy
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+==> LEVEL 'spectral'  +++  Buffersize(frames) = 3  +++  nReaders = 0
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.046419 (last: 0.025000)
+     BlocksizeRead(frames) = 0 	 BlocksizeWrite(frames) = 1
+     Number of elements: 12 	 Number of fields: 12
+     type = float   noHang = 1   isRingbuffer(isRb) = 1   growDyn = 0
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0.       : pcm_fftMag_fband0-250
+       1.       : pcm_fftMag_fband0-650
+       2.       : pcm_fftMag_fband250-650
+       3.       : pcm_fftMag_fband1000-4000
+       4.       : pcm_fftMag_spectralRollOff25.0
+       5.       : pcm_fftMag_spectralRollOff50.0
+       6.       : pcm_fftMag_spectralRollOff75.0
+       7.       : pcm_fftMag_spectralRollOff90.0
+       8.       : pcm_fftMag_spectralFlux
+       9.       : pcm_fftMag_spectralCentroid
+      10.       : pcm_fftMag_spectralMaxPos
+      11.       : pcm_fftMag_spectralMinPos
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+[ 28.09.2016 - 19:31:01 ]
+    (WARN) [1] in dataMemory :    Level 'spectral' might be a DEAD-END (nReaders <= 0!)
+==> LEVEL 'formantsmo_sel'  +++  Buffersize(frames) = 10000  +++  nReaders = 0
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.025000 (last: 0.000000)
+     BlocksizeRead(frames) = 0 	 BlocksizeWrite(frames) = 1
+     Number of elements: 3 	 Number of fields: 3
+     type = float   noHang = 1   isRingbuffer(isRb) = 0   growDyn = 1
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0.       : formantFinalBW[0]
+       1.       : formantFinalBW[1]
+       2.       : formantFinalBW[2]
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+[ 28.09.2016 - 19:31:01 ]
+    (WARN) [1] in dataMemory :    Level 'formantsmo_sel' might be a DEAD-END (nReaders <= 0!)
+==> LEVEL 'pitchG60'  +++  Buffersize(frames) = 100  +++  nReaders = 2
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.046419 (last: 0.046419)
+     BlocksizeRead(frames) = 6 	 BlocksizeWrite(frames) = 1
+     Number of elements: 3 	 Number of fields: 3
+     type = float   noHang = 1   isRingbuffer(isRb) = 1   growDyn = 0
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0.       : shimmerLocal
+       1.       : logHNR
+       2.       : pcm_RMSenergy
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+==> LEVEL 'smo'  +++  Buffersize(frames) = 10000  +++  nReaders = 3
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.046419 (last: 0.046419)
+     BlocksizeRead(frames) = 6 	 BlocksizeWrite(frames) = 1
+     Number of elements: 3 	 Number of fields: 3
+     type = float   noHang = 1   isRingbuffer(isRb) = 0   growDyn = 1
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0.       : shimmerLocal_sma
+       1.       : logHNR_sma
+       2.       : pcm_RMSenergy_sma
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+==> LEVEL 'functionalsF0p'  +++  Buffersize(frames) = 3  +++  nReaders = 1
+     Period(in seconds) = 0.000000 	 frameSize(in seconds) = 0.000000 (last: 0.025000)
+     BlocksizeRead(frames) = 1 	 BlocksizeWrite(frames) = 1
+     Number of elements: 5 	 Number of fields: 5
+     type = float   noHang = 1   isRingbuffer(isRb) = 0   growDyn = 1
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0.       : F0_sma_nnz
+       1.       : F0_sma_meanSegLen
+       2.       : F0_sma_maxSegLen
+       3.       : F0_sma_minSegLen
+       4.       : F0_sma_segLenStddev
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+        0.       : infoSize = 0 (dt = 0)
+        1.       : infoSize = 0 (dt = 0)
+        2.       : infoSize = 0 (dt = 0)
+        3.       : infoSize = 0 (dt = 0)
+        4.       : infoSize = 0 (dt = 0)
+==> LEVEL 'smo_de'  +++  Buffersize(frames) = 1000  +++  nReaders = 0
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.046419 (last: 0.046419)
+     BlocksizeRead(frames) = 0 	 BlocksizeWrite(frames) = 1
+     Number of elements: 3 	 Number of fields: 3
+     type = float   noHang = 1   isRingbuffer(isRb) = 0   growDyn = 1
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0.       : shimmerLocal_sma_de
+       1.       : logHNR_sma_de
+       2.       : pcm_RMSenergy_sma_de
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+[ 28.09.2016 - 19:31:01 ]
+    (WARN) [1] in dataMemory :    Level 'smo_de' might be a DEAD-END (nReaders <= 0!)
+==> LEVEL 'func'  +++  Buffersize(frames) = 3  +++  nReaders = 3
+     Period(in seconds) = 0.000000 	 frameSize(in seconds) = 0.000000 (last: 0.046419)
+     BlocksizeRead(frames) = 1 	 BlocksizeWrite(frames) = 1
+     Number of elements: 21 	 Number of fields: 21
+     type = float   noHang = 1   isRingbuffer(isRb) = 0   growDyn = 1
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0.       : shimmerLocal_sma_max
+       1.       : shimmerLocal_sma_min
+       2.       : shimmerLocal_sma_range
+       3.       : shimmerLocal_sma_amean
+       4.       : shimmerLocal_sma_variance
+       5.       : shimmerLocal_sma_skewness
+       6.       : shimmerLocal_sma_kurtosis
+       7.       : logHNR_sma_max
+       8.       : logHNR_sma_min
+       9.       : logHNR_sma_range
+      10.       : logHNR_sma_amean
+      11.       : logHNR_sma_variance
+      12.       : logHNR_sma_skewness
+      13.       : logHNR_sma_kurtosis
+      14.       : pcm_RMSenergy_sma_max
+      15.       : pcm_RMSenergy_sma_min
+      16.       : pcm_RMSenergy_sma_range
+      17.       : pcm_RMSenergy_sma_amean
+      18.       : pcm_RMSenergy_sma_variance
+      19.       : pcm_RMSenergy_sma_skewness
+      20.       : pcm_RMSenergy_sma_kurtosis
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+        0.       : infoSize = 0 (dt = 0)
+        1.       : infoSize = 0 (dt = 0)
+        2.       : infoSize = 0 (dt = 0)
+        3.       : infoSize = 0 (dt = 0)
+        4.       : infoSize = 0 (dt = 0)
+        5.       : infoSize = 0 (dt = 0)
+        6.       : infoSize = 0 (dt = 0)
+        7.       : infoSize = 0 (dt = 0)
+        8.       : infoSize = 0 (dt = 0)
+        9.       : infoSize = 0 (dt = 0)
+       10.       : infoSize = 0 (dt = 0)
+       11.       : infoSize = 0 (dt = 0)
+       12.       : infoSize = 0 (dt = 0)
+       13.       : infoSize = 0 (dt = 0)
+       14.       : infoSize = 0 (dt = 0)
+       15.       : infoSize = 0 (dt = 0)
+       16.       : infoSize = 0 (dt = 0)
+       17.       : infoSize = 0 (dt = 0)
+       18.       : infoSize = 0 (dt = 0)
+       19.       : infoSize = 0 (dt = 0)
+       20.       : infoSize = 0 (dt = 0)
+==> LEVEL 'pitchF_de'  +++  Buffersize(frames) = 1000  +++  nReaders = 1
+     Period(in seconds) = 0.010000 	 frameSize(in seconds) = 0.046419 (last: 0.046419)
+     BlocksizeRead(frames) = 1 	 BlocksizeWrite(frames) = 1
+     Number of elements: 3 	 Number of fields: 3
+     type = float   noHang = 1   isRingbuffer(isRb) = 0   growDyn = 1
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0.       : shimmerLocal_de
+       1.       : logHNR_de
+       2.       : pcm_RMSenergy_de
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+==> LEVEL 'funcFinal'  +++  Buffersize(frames) = 3  +++  nReaders = 0
+     Period(in seconds) = 0.000000 	 frameSize(in seconds) = 0.000000 (last: 0.046419)
+     BlocksizeRead(frames) = 0 	 BlocksizeWrite(frames) = 1
+     Number of elements: 26 	 Number of fields: 26
+     type = float   noHang = 1   isRingbuffer(isRb) = 0   growDyn = 1
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0.       : shimmerLocal_sma_max
+       1.       : shimmerLocal_sma_min
+       2.       : shimmerLocal_sma_range
+       3.       : shimmerLocal_sma_amean
+       4.       : shimmerLocal_sma_variance
+       5.       : shimmerLocal_sma_skewness
+       6.       : shimmerLocal_sma_kurtosis
+       7.       : logHNR_sma_max
+       8.       : logHNR_sma_min
+       9.       : logHNR_sma_range
+      10.       : logHNR_sma_amean
+      11.       : logHNR_sma_variance
+      12.       : logHNR_sma_skewness
+      13.       : logHNR_sma_kurtosis
+      14.       : pcm_RMSenergy_sma_max
+      15.       : pcm_RMSenergy_sma_min
+      16.       : pcm_RMSenergy_sma_range
+      17.       : pcm_RMSenergy_sma_amean
+      18.       : pcm_RMSenergy_sma_variance
+      19.       : pcm_RMSenergy_sma_skewness
+      20.       : pcm_RMSenergy_sma_kurtosis
+      21.       : F0_sma_nnz
+      22.       : F0_sma_meanSegLen
+      23.       : F0_sma_maxSegLen
+      24.       : F0_sma_minSegLen
+      25.       : F0_sma_segLenStddev
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+[ 28.09.2016 - 19:31:01 ]
+    (WARN) [1] in dataMemory :    Level 'funcFinal' might be a DEAD-END (nReaders <= 0!)
+==> LEVEL 'pitchSegs'  +++  Buffersize(frames) = 3  +++  nReaders = 0
+     Period(in seconds) = 0.000000 	 frameSize(in seconds) = 0.000000 (last: 0.046419)
+     BlocksizeRead(frames) = 0 	 BlocksizeWrite(frames) = 1
+     Number of elements: 3 	 Number of fields: 3
+     type = float   noHang = 1   isRingbuffer(isRb) = 0   growDyn = 1
+     Fields: index (range) : fieldname[array indicies]  (# elements)
+       0.       : shimmerLocal_de_duration
+       1.       : logHNR_de_duration
+       2.       : pcm_RMSenergy_de_duration
+     Fields with info struct set: (index (range) : info struct size in bytes (dt = datatype))
+        0.       : infoSize = 0 (dt = 0)
+        1.       : infoSize = 0 (dt = 0)
+        2.       : infoSize = 0 (dt = 0)
+[ 28.09.2016 - 19:31:01 ]
+    (WARN) [1] in dataMemory :    Level 'pitchSegs' might be a DEAD-END (nReaders <= 0!)
+[ 28.09.2016 - 19:31:01 ]
+    (MSG) [2] in cComponentManager : successfully finished createInstances
+                                 (38 component instances were finalised, 1 data memories were finalised)
+[ 28.09.2016 - 19:31:01 ]
+    (MSG) [2] in cComponentManager : starting single thread processing loop
+[ 28.09.2016 - 19:31:02 ]
+    (MSG) [2] in cComponentManager : Processing finished! System ran for 2350 ticks.

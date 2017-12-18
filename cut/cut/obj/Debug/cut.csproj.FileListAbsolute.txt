@@ -1,0 +1,13 @@
+c:\users\ad\documents\visual studio 2012\Projects\cut\cut\bin\Debug\cut.exe.config
+c:\users\ad\documents\visual studio 2012\Projects\cut\cut\bin\Debug\cut.exe
+c:\users\ad\documents\visual studio 2012\Projects\cut\cut\bin\Debug\cut.pdb
+c:\users\ad\documents\visual studio 2012\Projects\cut\cut\obj\Debug\cut.csprojResolveAssemblyReference.cache
+c:\users\ad\documents\visual studio 2012\Projects\cut\cut\obj\Debug\MainWindow.baml
+c:\users\ad\documents\visual studio 2012\Projects\cut\cut\obj\Debug\MainWindow.g.cs
+c:\users\ad\documents\visual studio 2012\Projects\cut\cut\obj\Debug\App.g.cs
+c:\users\ad\documents\visual studio 2012\Projects\cut\cut\obj\Debug\cut_MarkupCompile.cache
+c:\users\ad\documents\visual studio 2012\Projects\cut\cut\obj\Debug\cut.g.resources
+c:\users\ad\documents\visual studio 2012\Projects\cut\cut\obj\Debug\cut.Properties.Resources.resources
+c:\users\ad\documents\visual studio 2012\Projects\cut\cut\obj\Debug\cut.csproj.GenerateResource.Cache
+c:\users\ad\documents\visual studio 2012\Projects\cut\cut\obj\Debug\cut.exe
+c:\users\ad\documents\visual studio 2012\Projects\cut\cut\obj\Debug\cut.pdb

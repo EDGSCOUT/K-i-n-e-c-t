@@ -1,0 +1,6 @@
+1.Application:安定医院实验程序（步态、音视频）；
+2.Application_face:只采集一段时间的面部数据
+3.Application_BMW:只采集一段时间的面部数据(BMW用，数据存在C盘)
+4.Application_OneVideo:科技馆程序（观看一段视频后分析结果并打印出来）
+5.DataIntegration:安定医院数据整合程序
+6.VideoCut:回龙观医院视频分割程序

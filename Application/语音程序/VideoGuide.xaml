@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="VideoGuide.VideoGuide"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d"
+             >
+    <Grid>
+        <Canvas x:Name="empty" Height="569" Width="792"/>
+
+        <Button x:Name="Submit" Content="确定" Margin="0,0,0,10" VerticalAlignment="Bottom" Height="27" Click="button_Click" HorizontalAlignment="Center" Width="68"/>
+        <Canvas Margin="10,10,10,42" Width="772" Height="517" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Grid Height="517" Width="772">
+                <Label Content="      接下来您将看到一段视频，请您&#xD;&#xA;认真观看。观看期间，请尽量保持头&#xD;&#xA;部稳定，不要左右转动，其余身体部&#xD;&#xA;位可随意摆放。每个视频前后将询问&#xD;&#xA;您若干问题，您只需如实回答即可。" Height="257" Width="598" FontSize="36" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="87,122,87,138"/>
+            </Grid>
+        </Canvas>
+    </Grid>
+</UserControl>
+

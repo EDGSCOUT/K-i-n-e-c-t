@@ -1,0 +1,15 @@
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\bin\x64\Release\HDFaceBasics-WPF.exe.config
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\bin\x64\Release\HDFaceBasics-WPF.exe
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\bin\x64\Release\HDFaceBasics-WPF.pdb
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\bin\x64\Release\Microsoft.Kinect.Face.dll
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\bin\x64\Release\Microsoft.Kinect.Face.xml
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\obj\x64\Release\MainWindow.baml
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\obj\x64\Release\MainWindow.g.cs
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\obj\x64\Release\App.g.cs
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\obj\x64\Release\HDFaceBasics-WPF_MarkupCompile.cache
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\obj\x64\Release\HDFaceBasics-WPF.g.resources
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\obj\x64\Release\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\obj\x64\Release\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\obj\x64\Release\HDFaceBasics-WPF.exe
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\obj\x64\Release\HDFaceBasics-WPF.pdb
+C:\Users\ad\Desktop\重录程序\一段视频面部录像\obj\x64\Release\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache

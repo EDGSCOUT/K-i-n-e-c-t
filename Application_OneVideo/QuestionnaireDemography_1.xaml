@@ -1,0 +1,382 @@
+﻿<UserControl x:Class="QuestionnaireDemography.QuestionnaireDemography_1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d"
+             >
+    <Grid>
+        <Canvas x:Name="empty" Height="569" Width="792"/>
+        <Canvas HorizontalAlignment="Center" Height="532" VerticalAlignment="Center" Width="792" Margin="0,0,0,37">
+            <Grid Height="532" Width="792">
+                <Label Content="调查表" HorizontalAlignment="Left" Margin="354,12,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+                <ScrollViewer HorizontalAlignment="Left" Height="472" Margin="0,60,0,0" VerticalAlignment="Top" Width="782">
+                    <Canvas HorizontalAlignment="Center" Width="770" Height="918" VerticalAlignment="Center">
+                        <Grid Height="916" Canvas.Top="2" Width="770">
+
+                            <Grid.Resources>
+                                <Style
+                					TargetType="{x:Type TextBlock}">
+                                    <Setter
+                						Property="FontSize" Value="30"/>
+                                    <Setter
+                						Property="VerticalAlignment" Value="Center"/>
+                                </Style>
+                                <Style
+                					TargetType="{x:Type Border}">
+                                    <Setter
+                						Property="BorderBrush" Value="LightGray"/>
+                                    <Setter
+                						Property="BorderThickness" Value="1"/>
+                                </Style>
+                            </Grid.Resources>
+                            <Label Content="1.姓名" HorizontalAlignment="Left" Margin="50,20,0,0" VerticalAlignment="Top" 
+                				FontSize="22"/>
+                            <TextBox x:Name="tb_name" HorizontalAlignment="Left" Height="35" Margin="139,19,0,0" TextWrapping="Wrap" 
+                				VerticalAlignment="Top" Width="139" FontSize="20"/>
+                            <Label Content="2.性别" HorizontalAlignment="Left" Margin="50,89,0,0" VerticalAlignment="Top" 
+                				FontSize="22"/>
+                            <CheckBox x:Name="cb21" Content="男" HorizontalAlignment="Left" Margin="173,105,0,0" 
+                				VerticalAlignment="Top" Height="21" Width="38" RenderTransformOrigin="0.5,0.5" Checked="cb21_Checked">
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleY="1.7" ScaleX="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                            <CheckBox x:Name="cb22" Content="女" HorizontalAlignment="Left" Margin="256,104,0,0" 
+                				VerticalAlignment="Top" Height="20" Width="38" RenderTransformOrigin="0.5,0.5" Checked="cb22_Checked">
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleY="1.7" ScaleX="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                            <Label Content="是否处于哺乳期或妊娠期？" HorizontalAlignment="Left" Margin="322,89,0,0" 
+                				VerticalAlignment="Top" FontSize="22"/>
+                            <CheckBox x:Name="cb23" Content="否" HorizontalAlignment="Left" Margin="626,105,0,0" 
+                				VerticalAlignment="Top" Height="20" Width="38" RenderTransformOrigin="0.85,0.85" Checked="cb23_Checked">
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleY="1.7" ScaleX="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="9.31" Y="4.9"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                            <CheckBox x:Name="cb24" Content="是" HorizontalAlignment="Left" Margin="703,104,0,0" 
+                				VerticalAlignment="Top" Height="20" Width="38" RenderTransformOrigin="0.5,0.5" Checked="cb24_Checked">
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleY="1.7" ScaleX="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                            <Label Content="3.出生日期" HorizontalAlignment="Left" Margin="48,164,0,0" VerticalAlignment="Top" 
+                				FontSize="22"/>
+                            <TextBox x:Name="tb_year" HorizontalAlignment="Left" Height="35" Margin="195,165,0,0" 
+                				TextWrapping="Wrap" VerticalAlignment="Top" Width="83" FontSize="20"/>
+                            <TextBox x:Name="tb_month" HorizontalAlignment="Left" Height="35" Margin="333,164,0,0" 
+                				TextWrapping="Wrap" VerticalAlignment="Top" Width="50" FontSize="20"/>
+                            <TextBox x:Name="tb_day" HorizontalAlignment="Left" Height="35" Margin="447,165,0,0" TextWrapping="Wrap" 
+                				VerticalAlignment="Top" Width="47" FontSize="20"/>
+                            <Label Content="年" HorizontalAlignment="Left" Margin="288,164,0,0" VerticalAlignment="Top" 
+                				FontSize="22"/>
+                            <Label Content="月" HorizontalAlignment="Left" Margin="394,163,0,0" VerticalAlignment="Top" 
+                				FontSize="22"/>
+                            <Label Content="日" HorizontalAlignment="Left" Margin="507,163,0,0" VerticalAlignment="Top" 
+                				FontSize="22"/>
+                            <Label Content="4.身高" HorizontalAlignment="Left" Margin="50,236,0,0" VerticalAlignment="Top" 
+                				FontSize="22"/>
+                            <Label Content="厘米" HorizontalAlignment="Left" Margin="260,235,0,0" VerticalAlignment="Top" 
+                				FontSize="22"/>
+                            <Label Content="5.体重" HorizontalAlignment="Left" Margin="364,235,0,0" VerticalAlignment="Top" 
+                				FontSize="22"/>
+                            <Label Content="公斤" HorizontalAlignment="Left" Margin="540,235,0,0" VerticalAlignment="Top" 
+                				FontSize="22"/>
+                            <TextBox x:Name="tb_height" HorizontalAlignment="Left" Height="35" Margin="173,235,0,0" 
+                				TextWrapping="Wrap" VerticalAlignment="Top" Width="83" FontSize="20"/>
+                            <TextBox x:Name="tb_zhong" HorizontalAlignment="Left" Height="35" Margin="454,236,0,0" 
+                				TextWrapping="Wrap" VerticalAlignment="Top" Width="83" FontSize="20"/>
+                            <Label Content="6.家庭电话" HorizontalAlignment="Left" Margin="48,310,0,0" VerticalAlignment="Top" 
+                				FontSize="22"/>
+                            <TextBox x:Name="tb_home" HorizontalAlignment="Left" Height="35" Margin="173,312,0,0" 
+                				TextWrapping="Wrap" VerticalAlignment="Top" Width="164" FontSize="20"/>
+                            <Label Content="7.手机号" HorizontalAlignment="Left" Margin="342,314,0,0" VerticalAlignment="Top" 
+                				FontSize="22"/>
+                            <TextBox x:Name="tb_phone" HorizontalAlignment="Left" Height="35" Margin="441,313,0,0" 
+                				TextWrapping="Wrap" VerticalAlignment="Top" Width="169" FontSize="20"/>
+                            <Label Content="8.民族" HorizontalAlignment="Left" Margin="50,384,0,0" VerticalAlignment="Top" 
+                				FontSize="22"/>
+                            <CheckBox x:Name="cb81" Content="汉族" HorizontalAlignment="Left" Margin="75,453,0,0" 
+                				VerticalAlignment="Top" Height="21" Width="47" RenderTransformOrigin="0.5,0.5" Checked="cb81_Checked">
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleY="1.7" ScaleX="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                            <CheckBox x:Name="cb82" Content="回族" HorizontalAlignment="Left" Margin="165,452,0,0" 
+                				VerticalAlignment="Top" Height="21" Width="47" RenderTransformOrigin="0.5,0.5" Checked="cb82_Checked">
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleY="1.7" ScaleX="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                            <CheckBox x:Name="cb83" Content="朝鲜族" HorizontalAlignment="Left" Margin="255,452,0,0" 
+                				VerticalAlignment="Top" Height="21" Width="60" RenderTransformOrigin="0.5,0.5" Checked="cb83_Checked">
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleY="1.7" ScaleX="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                            <CheckBox x:Name="cb84" Content="满族" HorizontalAlignment="Left" Margin="361,452,0,0" 
+                				VerticalAlignment="Top" Height="21" Width="47" RenderTransformOrigin="0.5,0.5" Checked="cb84_Checked">
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleY="1.7" ScaleX="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                            <CheckBox x:Name="cb85" Content="蒙古族" HorizontalAlignment="Left" Margin="454,452,0,0" 
+                				VerticalAlignment="Top" Height="21" Width="61" RenderTransformOrigin="0.5,0.5" Checked="cb85_Checked">
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleY="1.7" ScaleX="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                            <CheckBox x:Name="cb86" Content="其他" HorizontalAlignment="Left" Margin="556,452,0,0" 
+                				VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Checked="cb86_Checked">
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="1.7" ScaleY="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                            <TextBox x:Name="tb_race" HorizontalAlignment="Left" Height="35" Margin="628,440,0,0" 
+                				TextWrapping="Wrap" VerticalAlignment="Top" Width="99" FontSize="20"/>
+
+                            <Label Content="9.文化水平" HorizontalAlignment="Left" Margin="50,509,0,0" VerticalAlignment="Top" 
+FontSize="22"/>
+                            <Label Content="10.职业（如退休，请填写退休前职业）" HorizontalAlignment="Left" Margin="50,637,0,0" VerticalAlignment="Top" 
+FontSize="22"/>
+
+                            <CheckBox x:Name="cb91" Content="文盲" HorizontalAlignment="Left" Margin="76,586,0,0" 
+                	VerticalAlignment="Top" Height="21" Width="48" RenderTransformOrigin="0.5,0.5" Checked="cb91_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleY="1.7" ScaleX="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                            <CheckBox x:Name="cb92" Content="小学" HorizontalAlignment="Left" Margin="165,586,0,0" 
+                	VerticalAlignment="Top" Height="21" Width="47" RenderTransformOrigin="0.5,0.5" Checked="cb92_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleY="1.7" ScaleX="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                            <CheckBox x:Name="cb93" Content="初中" HorizontalAlignment="Left" Margin="254,586,0,0" 
+                	VerticalAlignment="Top" Height="21" Width="48" RenderTransformOrigin="0.85,0.85" Checked="cb93_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleY="1.7" ScaleX="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="11.514" Y="5.145"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                            <CheckBox x:Name="cb94" Content="高中/中专" HorizontalAlignment="Left" Margin="352,587,0,0" 
+                	VerticalAlignment="Top" Height="21" Width="77" RenderTransformOrigin="0.481,0.43" Checked="cb94_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleY="1.7" ScaleX="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="-1.023" Y="-1.027"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                            <CheckBox x:Name="cb95" Content="大专/本科" HorizontalAlignment="Left" Margin="492,587,0,0" 
+                	VerticalAlignment="Top" Height="21" Width="74" RenderTransformOrigin="0.5,0.5" Checked="cb95_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleY="1.7" ScaleX="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                            <CheckBox x:Name="cb96" Content="硕士及以上" HorizontalAlignment="Left" Margin="626,587,0,0" 
+                	VerticalAlignment="Top" Height="21" Width="80" RenderTransformOrigin="0.5,0.5" Checked="cb96_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleY="1.7" ScaleX="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                            <CheckBox x:Name="cb101" Content="农民" HorizontalAlignment="Left" Margin="77,718,0,0" 
+                	VerticalAlignment="Top" Height="21" Width="47" RenderTransformOrigin="0.5,0.5" Checked="cb101_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleY="1.7" ScaleX="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                            <CheckBox x:Name="cb102" Content="工人/服务员" HorizontalAlignment="Left" Margin="186,719,0,0" 
+                	VerticalAlignment="Top" Height="21" Width="88" RenderTransformOrigin="0.5,0.5" Checked="cb102_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleY="1.7" ScaleX="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                            <CheckBox x:Name="cb103" Content="干部管理人员" HorizontalAlignment="Left" Margin="354,720,0,0" 
+                	VerticalAlignment="Top" Height="21" Width="97" RenderTransformOrigin="0.5,0.5" Checked="cb103_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleY="1.7" ScaleX="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                            <CheckBox x:Name="cb104" Content="公务员" HorizontalAlignment="Left" Margin="518,721,0,0" 
+                	VerticalAlignment="Top" Height="21" Width="61" RenderTransformOrigin="0.5,0.5" Checked="cb104_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleY="1.7" ScaleX="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                            <CheckBox x:Name="cb105" Content="公司职员" HorizontalAlignment="Left" Margin="92,787,0,0" 
+                	VerticalAlignment="Top" Height="21" Width="88" RenderTransformOrigin="0.928,-0.27" Checked="cb105_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleY="1.7" ScaleX="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="26.062" Y="-11.321"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                            <CheckBox x:Name="cb106" Content="教师/科研人员/医务工作者" HorizontalAlignment="Left" Margin="250,788,0,0" 
+                	VerticalAlignment="Top" Height="21" Width="166" RenderTransformOrigin="0.5,0.5" Checked="cb106_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleY="1.7" ScaleX="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                            <CheckBox x:Name="cb107" Content="学生" HorizontalAlignment="Left" Margin="502,788,0,0" 
+                	VerticalAlignment="Top" Height="21" Width="48" RenderTransformOrigin="0.208,0.277" Checked="cb107_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleY="1.7" ScaleX="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="-12.468" Y="-3.28"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                            <CheckBox x:Name="cb108" Content="军人" HorizontalAlignment="Left" Margin="590,787,0,0" 
+                	VerticalAlignment="Top" Height="21" Width="46" RenderTransformOrigin="0.489,0.267" Checked="cb108_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleY="1.7" ScaleX="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="-0.47" Y="-3.426"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                            <CheckBox x:Name="cb109" Content="商人" HorizontalAlignment="Left" Margin="62,854,0,0" 
+                	VerticalAlignment="Top" Height="20" Width="46" RenderTransformOrigin="2.076,0.356" Checked="cb109_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleY="1.7" ScaleX="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform X="67.291" Y="-2.117"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                            <CheckBox x:Name="cb1010" Content="其他" HorizontalAlignment="Left" Margin="169,854,0,0" 
+                	VerticalAlignment="Top" Height="20" Width="49" RenderTransformOrigin="0.5,0.5" Checked="cb1010_Checked" >
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleY="1.7" ScaleX="1.7"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+
+                            <TextBox x:Name="tb_job" HorizontalAlignment="Left" Height="35" Margin="238,842,0,0" 
+TextWrapping="Wrap" VerticalAlignment="Top" Width="83" FontSize="20" RenderTransformOrigin="0.759,2.543"/>
+
+                        </Grid>
+                    </Canvas>
+                </ScrollViewer>
+            </Grid>
+        </Canvas>
+        <Button x:Name="Submit" Content="提交" Margin="356,0,356,2" VerticalAlignment="Bottom" Height="35" Click="button_Click" HorizontalAlignment="Center" Width="80" FontSize="20"/>
+    </Grid>
+</UserControl>

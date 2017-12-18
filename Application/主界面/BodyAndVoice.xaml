@@ -1,0 +1,96 @@
+﻿<UserControl x:Class="TopWindow.BodyAndVoice"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d"
+             >
+    <Grid>
+        <Canvas x:Name="empty" Height="569" Width="792"/>
+
+        <Canvas HorizontalAlignment="Center" VerticalAlignment="Center" Width="792" Height="629" Margin="200,88,200,52">
+            <Label Content="请选择需要进行的实验" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="70" FontWeight="Bold" RenderTransformOrigin="0.609,0.482" Width="712" Height="99" Canvas.Left="42"/>
+            <Button Cursor="Hand" x:Name="button1" Opacity="1"  Foreground="White" Content="步态实验" FontSize="26" HorizontalAlignment="Left" VerticalAlignment="Top" Height="80" Width="175" Click="button1_Click" Canvas.Left="166" Canvas.Top="182">
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="0" CornerRadius="33,33,33,33" x:Name="PART_Background">
+                            <Border.Background>
+                                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                                    <GradientStop Color="White" Offset="0.0" />
+                                    <GradientStop Color="#FF4B80F1" Offset="0.5" />
+                                    <GradientStop Color="#FF4B80F1" Offset="0.0" />
+                                </LinearGradientBrush>
+                            </Border.Background>
+                            <ContentPresenter Content="{TemplateBinding Content}" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Cursor="Hand" x:Name="button2" Opacity="1"  Foreground="White" Content="音视频实验" FontSize="26" HorizontalAlignment="Left" VerticalAlignment="Top" Height="80" Width="175" Click="button2_Click" Canvas.Left="167" Canvas.Top="325">
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="0" CornerRadius="33,33,33,33" x:Name="PART_Background">
+                            <Border.Background>
+                                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                                    <GradientStop Color="White" Offset="0.0" />
+                                    <GradientStop Color="#FF4B80F1" Offset="0.5" />
+                                    <GradientStop Color="#FF4B80F1" Offset="0.0" />
+                                </LinearGradientBrush>
+                            </Border.Background>
+                            <ContentPresenter Content="{TemplateBinding Content}" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Cursor="Hand" x:Name="button3" Opacity="1"  Foreground="White" Content="注销" FontSize="26" HorizontalAlignment="Left" VerticalAlignment="Top" Height="80" Width="176" Click="button3_Click_1" Canvas.Left="165" Canvas.Top="468">
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="0" CornerRadius="33,33,33,33" x:Name="PART_Background">
+                            <Border.Background>
+                                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                                    <GradientStop Color="White" Offset="0.0" />
+                                    <GradientStop Color="#FF4B80F1" Offset="0.5" />
+                                    <GradientStop Color="#FF4B80F1" Offset="0.0" />
+                                </LinearGradientBrush>
+                            </Border.Background>
+                            <ContentPresenter Content="{TemplateBinding Content}" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Label x:Name="label" Content="当前被试编号：123456789" Canvas.Top="596" Width="266" FontSize="18" Canvas.Left="42" Foreground="#FF747070"/>
+            <Button Cursor="Hand" x:Name="button4" Opacity="1"  Foreground="White" Content="量表" FontSize="26" HorizontalAlignment="Left" VerticalAlignment="Top" Height="80" Width="174" Click="button4_Click_1" Canvas.Left="422" Canvas.Top="182">
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="0" CornerRadius="33,33,33,33" x:Name="PART_Background">
+                            <Border.Background>
+                                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                                    <GradientStop Color="White" Offset="0.0" />
+                                    <GradientStop Color="#FF4B80F1" Offset="0.5" />
+                                    <GradientStop Color="#FF4B80F1" Offset="0.0" />
+                                </LinearGradientBrush>
+                            </Border.Background>
+                            <ContentPresenter Content="{TemplateBinding Content}" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Cursor="Hand" x:Name="button5" Opacity="1"  Foreground="White" Content="实验记录表" FontSize="26" HorizontalAlignment="Left" VerticalAlignment="Top" Height="80" Width="175" Click="button5_Click_1" Canvas.Left="422" Canvas.Top="325">
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="0" CornerRadius="33,33,33,33" x:Name="PART_Background">
+                            <Border.Background>
+                                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                                    <GradientStop Color="White" Offset="0.0" />
+                                    <GradientStop Color="#FF4B80F1" Offset="0.5" />
+                                    <GradientStop Color="#FF4B80F1" Offset="0.0" />
+                                </LinearGradientBrush>
+                            </Border.Background>
+                            <ContentPresenter Content="{TemplateBinding Content}" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+        </Canvas>
+    </Grid>
+</UserControl>

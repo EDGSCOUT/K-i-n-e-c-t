@@ -1,0 +1,328 @@
+C:\Users\ad\Desktop\面部程序\bin\x86\Debug\Voice.exe.config
+C:\Users\ad\Desktop\面部程序\bin\x86\Debug\Images\SAM-A-7.png
+C:\Users\ad\Desktop\面部程序\bin\x86\Debug\Images\SAM-VP-9.png
+C:\Users\ad\Desktop\面部程序\bin\x86\Debug\Voice.exe
+C:\Users\ad\Desktop\面部程序\bin\x86\Debug\Voice.pdb
+C:\Users\ad\Desktop\面部程序\bin\x86\Debug\microsoft.directx.directsound.dll
+C:\Users\ad\Desktop\面部程序\bin\x86\Debug\Microsoft.DirectX.dll
+C:\Users\ad\Desktop\面部程序\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\ad\Desktop\面部程序\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\BDI.baml
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\EmotionTest.baml
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\End.baml
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\GuideBackupVideo.baml
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\Login.baml
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\MainWindow.baml
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\MakeSure.baml
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\QuestionnaireDemography_1.baml
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\QuestionnaireDemography_2.baml
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\QuestionnaireHealth.baml
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\Relex.baml
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\Report.baml
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\Saving.baml
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\ShowFace.baml
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\ShowPicture.baml
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\VideoGuide.baml
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\VideoPlayer.baml
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\BDI.g.cs
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\EmotionTest.g.cs
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\End.g.cs
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\GuideBackupVideo.g.cs
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\Login.g.cs
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\MakeSure.g.cs
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\QuestionnaireDemography_1.g.cs
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\QuestionnaireDemography_2.g.cs
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\QuestionnaireHealth.g.cs
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\Relex.g.cs
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\Report.g.cs
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\Saving.g.cs
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\ShowFace.g.cs
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\ShowPicture.g.cs
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\VideoGuide.g.cs
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\VideoPlayer.g.cs
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\App.g.cs
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\Voice_Content.g.cs
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\Voice_MarkupCompile.cache
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\Voice.g.resources
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\Voice.Properties.Resources.resources
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\Voice.csproj.GenerateResource.Cache
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\Voice.exe
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\Voice.pdb
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\Voice.csprojResolveAssemblyReference.cache
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\Log.baml
+C:\Users\ad\Desktop\面部程序\obj\x86\Debug\Log.g.cs
+C:\Users\ad\Desktop\语音程序\bin\x86\Debug\Voice.exe.config
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\Voice.exe
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\Voice.pdb
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\Voice.csprojResolveAssemblyReference.cache
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\BDI.baml
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\EmotionTest.baml
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\End.baml
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\GuideBackupVideo.baml
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\GuideInterview.baml
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\Log.baml
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\Login.baml
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\MainWindow.baml
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\MakeSure.baml
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\QuestionnaireDemography_1.baml
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\QuestionnaireDemography_2.baml
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\QuestionnaireHealth.baml
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\Relex.baml
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\Report.baml
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\Saving.baml
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\ShowFace.baml
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\ShowPicture.baml
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\VideoGuide.baml
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\VideoPlayer.baml
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\BDI.g.cs
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\EmotionTest.g.cs
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\End.g.cs
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\GuideBackupVideo.g.cs
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\GuideInterview.g.cs
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\Log.g.cs
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\Login.g.cs
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\MakeSure.g.cs
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\QuestionnaireDemography_1.g.cs
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\QuestionnaireDemography_2.g.cs
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\QuestionnaireHealth.g.cs
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\Relex.g.cs
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\Report.g.cs
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\Saving.g.cs
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\ShowFace.g.cs
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\ShowPicture.g.cs
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\VideoGuide.g.cs
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\VideoPlayer.g.cs
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\App.g.cs
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\Voice_Content.g.cs
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\Voice_MarkupCompile.cache
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\Voice.g.resources
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\Voice.Properties.Resources.resources
+C:\Users\ad\Desktop\语音程序\obj\x86\Debug\Voice.csproj.GenerateResource.Cache
+C:\Users\ad\Desktop\语音程序\bin\x86\Debug\Images\SAM-A-7.png
+C:\Users\ad\Desktop\语音程序\bin\x86\Debug\Images\SAM-VP-9.png
+C:\Users\ad\Desktop\语音程序\bin\x86\Debug\Voice.exe
+C:\Users\ad\Desktop\语音程序\bin\x86\Debug\Voice.pdb
+C:\Users\ad\Desktop\语音程序\bin\x86\Debug\microsoft.directx.directsound.dll
+C:\Users\ad\Desktop\语音程序\bin\x86\Debug\Microsoft.DirectX.dll
+C:\Users\ad\Desktop\语音程序\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\ad\Desktop\语音程序\bin\x86\Debug\Microsoft.Kinect.Face.xml
+J:\Application\语音程序\bin\x86\Debug\Images\SAM-A-7.png
+J:\Application\语音程序\bin\x86\Debug\Images\SAM-VP-9.png
+J:\Application\语音程序\bin\x86\Debug\Voice.exe.config
+J:\Application\语音程序\bin\x86\Debug\Voice.exe
+J:\Application\语音程序\bin\x86\Debug\Voice.pdb
+J:\Application\语音程序\bin\x86\Debug\microsoft.directx.directsound.dll
+J:\Application\语音程序\bin\x86\Debug\Microsoft.DirectX.dll
+J:\Application\语音程序\bin\x86\Debug\Microsoft.Kinect.Face.dll
+J:\Application\语音程序\bin\x86\Debug\Microsoft.Kinect.Face.xml
+J:\Application\语音程序\obj\x86\Debug\Voice.csprojResolveAssemblyReference.cache
+J:\Application\语音程序\obj\x86\Debug\BDI.baml
+J:\Application\语音程序\obj\x86\Debug\EmotionTest.baml
+J:\Application\语音程序\obj\x86\Debug\End.baml
+J:\Application\语音程序\obj\x86\Debug\GuideBackupVideo.baml
+J:\Application\语音程序\obj\x86\Debug\GuideInterview.baml
+J:\Application\语音程序\obj\x86\Debug\Log.baml
+J:\Application\语音程序\obj\x86\Debug\Login.baml
+J:\Application\语音程序\obj\x86\Debug\MainWindow.baml
+J:\Application\语音程序\obj\x86\Debug\MakeSure.baml
+J:\Application\语音程序\obj\x86\Debug\MicroPhoneTest.baml
+J:\Application\语音程序\obj\x86\Debug\QuestionnaireDemography_1.baml
+J:\Application\语音程序\obj\x86\Debug\QuestionnaireDemography_2.baml
+J:\Application\语音程序\obj\x86\Debug\QuestionnaireHealth.baml
+J:\Application\语音程序\obj\x86\Debug\Relex.baml
+J:\Application\语音程序\obj\x86\Debug\Report.baml
+J:\Application\语音程序\obj\x86\Debug\Saving.baml
+J:\Application\语音程序\obj\x86\Debug\ShowFace.baml
+J:\Application\语音程序\obj\x86\Debug\ShowPicture.baml
+J:\Application\语音程序\obj\x86\Debug\VHI.baml
+J:\Application\语音程序\obj\x86\Debug\VideoGuide.baml
+J:\Application\语音程序\obj\x86\Debug\BDI.g.cs
+J:\Application\语音程序\obj\x86\Debug\EmotionTest.g.cs
+J:\Application\语音程序\obj\x86\Debug\End.g.cs
+J:\Application\语音程序\obj\x86\Debug\GuideBackupVideo.g.cs
+J:\Application\语音程序\obj\x86\Debug\GuideInterview.g.cs
+J:\Application\语音程序\obj\x86\Debug\Log.g.cs
+J:\Application\语音程序\obj\x86\Debug\Login.g.cs
+J:\Application\语音程序\obj\x86\Debug\MainWindow.g.cs
+J:\Application\语音程序\obj\x86\Debug\MakeSure.g.cs
+J:\Application\语音程序\obj\x86\Debug\MicroPhoneTest.g.cs
+J:\Application\语音程序\obj\x86\Debug\QuestionnaireDemography_1.g.cs
+J:\Application\语音程序\obj\x86\Debug\QuestionnaireDemography_2.g.cs
+J:\Application\语音程序\obj\x86\Debug\QuestionnaireHealth.g.cs
+J:\Application\语音程序\obj\x86\Debug\Relex.g.cs
+J:\Application\语音程序\obj\x86\Debug\Report.g.cs
+J:\Application\语音程序\obj\x86\Debug\Saving.g.cs
+J:\Application\语音程序\obj\x86\Debug\ShowFace.g.cs
+J:\Application\语音程序\obj\x86\Debug\ShowPicture.g.cs
+J:\Application\语音程序\obj\x86\Debug\VHI.g.cs
+J:\Application\语音程序\obj\x86\Debug\VideoGuide.g.cs
+J:\Application\语音程序\obj\x86\Debug\App.g.cs
+J:\Application\语音程序\obj\x86\Debug\Voice_Content.g.cs
+J:\Application\语音程序\obj\x86\Debug\Voice_MarkupCompile.cache
+J:\Application\语音程序\obj\x86\Debug\Voice.g.resources
+J:\Application\语音程序\obj\x86\Debug\Voice.Properties.Resources.resources
+J:\Application\语音程序\obj\x86\Debug\Voice.csproj.GenerateResource.Cache
+J:\Application\语音程序\obj\x86\Debug\Voice.exe
+J:\Application\语音程序\obj\x86\Debug\Voice.pdb
+J:\程序\Application\语音程序\bin\x86\Debug\Images\SAM-A-7.png
+J:\程序\Application\语音程序\bin\x86\Debug\Images\SAM-VP-9.png
+J:\程序\Application\语音程序\bin\x86\Debug\Voice.exe.config
+J:\程序\Application\语音程序\bin\x86\Debug\Voice.exe
+J:\程序\Application\语音程序\bin\x86\Debug\Voice.pdb
+J:\程序\Application\语音程序\bin\x86\Debug\microsoft.directx.directsound.dll
+J:\程序\Application\语音程序\bin\x86\Debug\Microsoft.DirectX.dll
+J:\程序\Application\语音程序\bin\x86\Debug\Microsoft.Kinect.Face.dll
+J:\程序\Application\语音程序\bin\x86\Debug\Microsoft.Kinect.Face.xml
+J:\程序\Application\语音程序\obj\x86\Debug\Voice.csprojResolveAssemblyReference.cache
+J:\程序\Application\语音程序\obj\x86\Debug\AllEnd.baml
+J:\程序\Application\语音程序\obj\x86\Debug\EmotionTest.baml
+J:\程序\Application\语音程序\obj\x86\Debug\End.baml
+J:\程序\Application\语音程序\obj\x86\Debug\Guide.baml
+J:\程序\Application\语音程序\obj\x86\Debug\Login.baml
+J:\程序\Application\语音程序\obj\x86\Debug\MainWindow.baml
+J:\程序\Application\语音程序\obj\x86\Debug\MakeSure.baml
+J:\程序\Application\语音程序\obj\x86\Debug\MicroPhoneTest.baml
+J:\程序\Application\语音程序\obj\x86\Debug\QuestionnaireDemography_1.baml
+J:\程序\Application\语音程序\obj\x86\Debug\QuestionnaireDemography_2.baml
+J:\程序\Application\语音程序\obj\x86\Debug\QuestionnaireHealth.baml
+J:\程序\Application\语音程序\obj\x86\Debug\Relex.baml
+J:\程序\Application\语音程序\obj\x86\Debug\Report.baml
+J:\程序\Application\语音程序\obj\x86\Debug\Saving.baml
+J:\程序\Application\语音程序\obj\x86\Debug\ShowFace.baml
+J:\程序\Application\语音程序\obj\x86\Debug\ShowPicture.baml
+J:\程序\Application\语音程序\obj\x86\Debug\ShowPictureRead.baml
+J:\程序\Application\语音程序\obj\x86\Debug\VideoGuide.baml
+J:\程序\Application\语音程序\obj\x86\Debug\AllEnd.g.cs
+J:\程序\Application\语音程序\obj\x86\Debug\EmotionTest.g.cs
+J:\程序\Application\语音程序\obj\x86\Debug\End.g.cs
+J:\程序\Application\语音程序\obj\x86\Debug\Guide.g.cs
+J:\程序\Application\语音程序\obj\x86\Debug\Login.g.cs
+J:\程序\Application\语音程序\obj\x86\Debug\MainWindow.g.cs
+J:\程序\Application\语音程序\obj\x86\Debug\MakeSure.g.cs
+J:\程序\Application\语音程序\obj\x86\Debug\MicroPhoneTest.g.cs
+J:\程序\Application\语音程序\obj\x86\Debug\QuestionnaireDemography_1.g.cs
+J:\程序\Application\语音程序\obj\x86\Debug\QuestionnaireDemography_2.g.cs
+J:\程序\Application\语音程序\obj\x86\Debug\QuestionnaireHealth.g.cs
+J:\程序\Application\语音程序\obj\x86\Debug\Relex.g.cs
+J:\程序\Application\语音程序\obj\x86\Debug\Report.g.cs
+J:\程序\Application\语音程序\obj\x86\Debug\Saving.g.cs
+J:\程序\Application\语音程序\obj\x86\Debug\ShowFace.g.cs
+J:\程序\Application\语音程序\obj\x86\Debug\ShowPicture.g.cs
+J:\程序\Application\语音程序\obj\x86\Debug\ShowPictureRead.g.cs
+J:\程序\Application\语音程序\obj\x86\Debug\VideoGuide.g.cs
+J:\程序\Application\语音程序\obj\x86\Debug\App.g.cs
+J:\程序\Application\语音程序\obj\x86\Debug\Voice_Content.g.cs
+J:\程序\Application\语音程序\obj\x86\Debug\Voice_MarkupCompile.cache
+J:\程序\Application\语音程序\obj\x86\Debug\Voice.g.resources
+J:\程序\Application\语音程序\obj\x86\Debug\Voice.Properties.Resources.resources
+J:\程序\Application\语音程序\obj\x86\Debug\Voice.csproj.GenerateResource.Cache
+J:\程序\Application\语音程序\obj\x86\Debug\Voice.exe
+J:\程序\Application\语音程序\obj\x86\Debug\Voice.pdb
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\bin\x86\Debug\Images\SAM-A-7.png
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\bin\x86\Debug\Images\SAM-VP-9.png
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\bin\x86\Debug\Voice.exe.config
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\bin\x86\Debug\Voice.exe
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\bin\x86\Debug\Voice.pdb
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\bin\x86\Debug\microsoft.directx.directsound.dll
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\bin\x86\Debug\Microsoft.DirectX.dll
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\AllEnd.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\EmotionTest.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\End.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Guide.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Login.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\MainWindow.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\MakeSure.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\MicroPhoneTest.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\QuestionnaireDemography_1.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\QuestionnaireDemography_2.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\QuestionnaireHealth.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Relex.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Report.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Saving.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\ShowFace.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\ShowPicture.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\ShowPictureRead.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\VideoGuide.baml
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\AllEnd.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\EmotionTest.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\End.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Guide.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Login.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\MakeSure.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\MicroPhoneTest.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\QuestionnaireDemography_1.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\QuestionnaireDemography_2.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\QuestionnaireHealth.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Relex.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Report.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Saving.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\ShowFace.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\ShowPicture.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\ShowPictureRead.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\VideoGuide.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\App.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Voice_Content.g.cs
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Voice_MarkupCompile.cache
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Voice.g.resources
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Voice.Properties.Resources.resources
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Voice.csproj.GenerateResource.Cache
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Voice.exe
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Voice.pdb
+C:\Users\ad\Documents\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Voice.csprojResolveAssemblyReference.cache
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\bin\x86\Debug\Images\SAM-A-7.png
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\bin\x86\Debug\Images\SAM-VP-9.png
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\bin\x86\Debug\Voice.exe.config
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\bin\x86\Debug\Voice.exe
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\bin\x86\Debug\Voice.pdb
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\bin\x86\Debug\Microsoft.Kinect.Face.dll
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\bin\x86\Debug\Microsoft.Kinect.Face.xml
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Voice.csprojResolveAssemblyReference.cache
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\AllEnd.baml
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\EmotionTest.baml
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\End.baml
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Guide.baml
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Login.baml
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\MainWindow.baml
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\MakeSure.baml
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\MicroPhoneTest.baml
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\QuestionnaireDemography_1.baml
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\QuestionnaireDemography_2.baml
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\QuestionnaireHealth.baml
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Relex.baml
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Report.baml
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Saving.baml
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\ShowFace.baml
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\ShowPicture.baml
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\ShowPictureRead.baml
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\VideoGuide.baml
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\AllEnd.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\EmotionTest.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\End.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Guide.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Login.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\MainWindow.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\MakeSure.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\MicroPhoneTest.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\QuestionnaireDemography_1.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\QuestionnaireDemography_2.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\QuestionnaireHealth.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Relex.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Report.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Saving.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\ShowFace.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\ShowPicture.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\ShowPictureRead.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\VideoGuide.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\App.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Voice_Content.g.cs
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Voice_MarkupCompile.cache
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Voice.g.resources
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Voice.Properties.Resources.resources
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Voice.csproj.GenerateResource.Cache
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Voice.exe
+F:\ad\Visual Studio 2012\Projects\Application\语音程序\obj\x86\Debug\Voice.pdb

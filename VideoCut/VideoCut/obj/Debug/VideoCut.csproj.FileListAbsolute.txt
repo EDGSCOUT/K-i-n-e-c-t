@@ -1,0 +1,13 @@
+c:\users\ad\documents\visual studio 2012\Projects\VideoCut\VideoCut\bin\Debug\VideoCut.exe.config
+c:\users\ad\documents\visual studio 2012\Projects\VideoCut\VideoCut\bin\Debug\VideoCut.exe
+c:\users\ad\documents\visual studio 2012\Projects\VideoCut\VideoCut\bin\Debug\VideoCut.pdb
+c:\users\ad\documents\visual studio 2012\Projects\VideoCut\VideoCut\obj\Debug\VideoCut.csprojResolveAssemblyReference.cache
+c:\users\ad\documents\visual studio 2012\Projects\VideoCut\VideoCut\obj\Debug\MainWindow.baml
+c:\users\ad\documents\visual studio 2012\Projects\VideoCut\VideoCut\obj\Debug\MainWindow.g.cs
+c:\users\ad\documents\visual studio 2012\Projects\VideoCut\VideoCut\obj\Debug\App.g.cs
+c:\users\ad\documents\visual studio 2012\Projects\VideoCut\VideoCut\obj\Debug\VideoCut_MarkupCompile.cache
+c:\users\ad\documents\visual studio 2012\Projects\VideoCut\VideoCut\obj\Debug\VideoCut.g.resources
+c:\users\ad\documents\visual studio 2012\Projects\VideoCut\VideoCut\obj\Debug\VideoCut.Properties.Resources.resources
+c:\users\ad\documents\visual studio 2012\Projects\VideoCut\VideoCut\obj\Debug\VideoCut.csproj.GenerateResource.Cache
+c:\users\ad\documents\visual studio 2012\Projects\VideoCut\VideoCut\obj\Debug\VideoCut.exe
+c:\users\ad\documents\visual studio 2012\Projects\VideoCut\VideoCut\obj\Debug\VideoCut.pdb

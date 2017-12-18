@@ -1,0 +1,9 @@
+F:\语音特征\openSMILE-2.1.0\openSMILEbatchGUI\bin\Debug\openSMILEbatchGUI.exe
+F:\语音特征\openSMILE-2.1.0\openSMILEbatchGUI\bin\Debug\openSMILEbatchGUI.pdb
+F:\语音特征\openSMILE-2.1.0\openSMILEbatchGUI\obj\x86\Debug\openSMILEbatchGUI.csprojResolveAssemblyReference.cache
+F:\语音特征\openSMILE-2.1.0\openSMILEbatchGUI\obj\x86\Debug\openSMILEbatchGUI.Form1.resources
+F:\语音特征\openSMILE-2.1.0\openSMILEbatchGUI\obj\x86\Debug\openSMILEbatchGUI.Form2.resources
+F:\语音特征\openSMILE-2.1.0\openSMILEbatchGUI\obj\x86\Debug\openSMILEbatchGUI.Properties.Resources.resources
+F:\语音特征\openSMILE-2.1.0\openSMILEbatchGUI\obj\x86\Debug\openSMILEbatchGUI.csproj.GenerateResource.Cache
+F:\语音特征\openSMILE-2.1.0\openSMILEbatchGUI\obj\x86\Debug\openSMILEbatchGUI.exe
+F:\语音特征\openSMILE-2.1.0\openSMILEbatchGUI\obj\x86\Debug\openSMILEbatchGUI.pdb
